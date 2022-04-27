@@ -1,0 +1,29 @@
+.section {
+    position: relative;
+}
+
+.sectionOpener {
+    margin-bottom: 16px;
+    transition: 0.1s all ease;  
+    background-color: #fff;
+    z-index: 2;
+    padding: 18px 34px;
+
+}
+
+.sectionOpener:hover {
+    border-color: rgba(87, 184, 95, 1);
+}
+
+.sectionMain {
+    transition: 0.2s all ease;
+    z-index: 1;
+    /* margin-top: -50%; */
+    opacity: 0; 
+    transform: translateY(-120%);
+}
+
+.sectionMainActive {
+    opacity: 1; 
+    transform: translateY(0);
+}

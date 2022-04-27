@@ -5,14 +5,50 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "test": "jest --watch"
+  },
+  "jest": {
+    "testEnvironment": "jsdom",
+    "moduleDirectories": [
+      "node_modules",
+      "src"
+    ],
+    "moduleNameMapper": {
+      "^@/(.*)$": "<rootDir>/src/$1"
+    },
+    "resolver": "ts-jest-resolver",
+    "moduleFileExtensions": [
+      "js",
+      "ts",
+      "json",
+      "vue"
+    ],
+    "transform": {
+      "^.+\\.js$": "babel-jest",
+      ".*\\.(vue)$": "@vue/vue3-jest",
+      "^.+\\.(ts|tsx)$": "ts-jest"
+    }
   },
   "dependencies": {
+    "@headlessui/vue": "^1.5.0",
+    "@heroicons/vue": "^1.0.6",
+    "autoprefixer": "^10.4.4",
+    "axios": "^0.26.1",
+    "chart.js": "^3.7.1",
+    "date-fns": "^2.28.0",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.23",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
-    "vuex": "^4.0.0"
+    "vuex": "^4.0.0",
+    "vuex-smart-module": "^1.0.0"
   },
   "devDependencies": {
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-typescript": "^7.16.7",
+    "@testing-library/vue": "^6.5.1",
+    "@types/jest": "^27.4.1",
     "@typescript-eslint/eslint-plugin": "^5.4.0",
     "@typescript-eslint/parser": "^5.4.0",
     "@vue/cli-plugin-eslint": "~5.0.0",
@@ -21,8 +57,15 @@
     "@vue/cli-plugin-vuex": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
     "@vue/eslint-config-typescript": "^9.1.0",
+    "@vue/vue3-jest": "^27.0.0",
+    "babel-jest": "^27.5.1",
     "eslint": "^7.32.0",
     "eslint-plugin-vue": "^8.0.3",
-    "typescript": "~4.5.5"
+    "jest": "^27.5.1",
+    "jsdom": "^19.0.0",
+    "ts-jest": "^27.1.4",
+    "ts-jest-resolver": "^2.0.0",
+    "typescript": "~4.5.5",
+    "vue-cli-plugin-vuetify": "~2.4.8"
   }
 }

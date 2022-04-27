@@ -1,0 +1,21 @@
+.dropdownItem {
+    display: flex;
+    align-items: center;
+    transition: 0.1s all ease;
+}
+
+.dropdownItemSelect {
+    padding: 18px 34px;
+}
+
+.dropdownItemSelect:first-child {
+    border-radius: 10px 10px 0 0;
+}
+
+.dropdownItemSelect:last-child {
+    border-radius: 0px 0px 10px 10px;
+}
+
+.dropdownItemSelect:hover {
+    background-color: rgba(87, 184, 95, 0.25);
+}

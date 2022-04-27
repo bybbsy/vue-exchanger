@@ -1,0 +1,10 @@
+.customDropdown {
+    /* overflow-y: hidden; */
+    margin: 25px;
+    max-width: 466px; 
+}
+
+.dropdownWrapper {
+    overflow: hidden;
+    border-radius: 11px 11px 0 0;
+}

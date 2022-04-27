@@ -1,0 +1,4502 @@
+[
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:01:01.1500000Z",
+        "time_coinapi": "2016-01-01T00:01:01.2570000Z",
+        "uuid": "ec6fba23-29c7-4742-85b1-117b1e9e4574",
+        "price": 430.89,
+        "size": 0.08063101,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:02:13.8870000Z",
+        "time_coinapi": "2016-01-01T00:02:14.0030000Z",
+        "uuid": "e435fd12-b49b-4334-9fff-9f37d8b2ce82",
+        "price": 430.89,
+        "size": 0.0967572,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:02:46.4830000Z",
+        "time_coinapi": "2016-01-01T00:02:46.5800000Z",
+        "uuid": "df51e2de-1d76-4182-a269-7ef59c0ca1b3",
+        "price": 430.89,
+        "size": 0.0465,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:04:32.5200000Z",
+        "time_coinapi": "2016-01-01T00:04:32.6400000Z",
+        "uuid": "4c313843-3ed5-4222-9f01-597566506f26",
+        "price": 430.19,
+        "size": 0.2,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:04:36.3600000Z",
+        "time_coinapi": "2016-01-01T00:04:36.4800000Z",
+        "uuid": "7e65517a-29ec-4cea-a625-0c080bce3921",
+        "price": 430.89,
+        "size": 0.43216148,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:04:52.2670000Z",
+        "time_coinapi": "2016-01-01T00:04:52.4070000Z",
+        "uuid": "0b2083cc-3560-4833-8567-e4fb87957356",
+        "price": 430.89,
+        "size": 0.08520465,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:04:52.3300000Z",
+        "time_coinapi": "2016-01-01T00:04:52.4700000Z",
+        "uuid": "f87a81c4-42cd-4060-9970-398e2463694b",
+        "price": 430.89,
+        "size": 0.2,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:04:52.3830000Z",
+        "time_coinapi": "2016-01-01T00:04:52.5230000Z",
+        "uuid": "a28b3426-19a8-4b9a-b367-e0d51d079f39",
+        "price": 431.06,
+        "size": 0.11479535,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:05:11.6670000Z",
+        "time_coinapi": "2016-01-01T00:05:11.8070000Z",
+        "uuid": "3aa3a034-dc07-4a25-9fc1-8e46601b3c18",
+        "price": 431.06,
+        "size": 0.38520465,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:05:11.7600000Z",
+        "time_coinapi": "2016-01-01T00:05:11.8970000Z",
+        "uuid": "e127bed5-1916-4316-a595-72a858978833",
+        "price": 431.26,
+        "size": 1,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:05:11.8370000Z",
+        "time_coinapi": "2016-01-01T00:05:11.9730000Z",
+        "uuid": "cb89894e-1526-42f8-81cc-a2098ea66655",
+        "price": 431.26,
+        "size": 0.13740354,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:05:11.9030000Z",
+        "time_coinapi": "2016-01-01T00:05:12.0430000Z",
+        "uuid": "796348f6-2e41-4e26-8c36-f90da64df977",
+        "price": 431.67,
+        "size": 1.05719,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:05:11.9870000Z",
+        "time_coinapi": "2016-01-01T00:05:12.1230000Z",
+        "uuid": "ca3ca63b-8816-4099-a36a-73e9c3d042bf",
+        "price": 432.09,
+        "size": 1.50857567,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:05:12.0470000Z",
+        "time_coinapi": "2016-01-01T00:05:12.1830000Z",
+        "uuid": "ee21daaf-9625-4664-ac64-919d8e7c0950",
+        "price": 432.11,
+        "size": 0.15212045,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:05:18.4470000Z",
+        "time_coinapi": "2016-01-01T00:05:18.5830000Z",
+        "uuid": "0b46bc80-f74b-41ca-bb30-c048fd4a2f2c",
+        "price": 430.21,
+        "size": 0.92200583,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:05:33.8070000Z",
+        "time_coinapi": "2016-01-01T00:05:33.9270000Z",
+        "uuid": "46ddefed-c7f8-4c27-8957-9a7ba0811e97",
+        "price": 430.41,
+        "size": 0.11868305,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:05:34.3400000Z",
+        "time_coinapi": "2016-01-01T00:05:34.4630000Z",
+        "uuid": "182073ac-a7ba-45e0-aa24-8c00d176ba24",
+        "price": 430.41,
+        "size": 0.01256675,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:05:34.8070000Z",
+        "time_coinapi": "2016-01-01T00:05:34.9300000Z",
+        "uuid": "e92659e7-1778-4cc7-872c-6c6480340d8c",
+        "price": 430.42,
+        "size": 0.13350926,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:05:53.9770000Z",
+        "time_coinapi": "2016-01-01T00:05:54.1270000Z",
+        "uuid": "8cfaf827-2b19-4e89-bd59-3435d91851ca",
+        "price": 430.54,
+        "size": 0.13089,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:05:54.2800000Z",
+        "time_coinapi": "2016-01-01T00:05:54.4300000Z",
+        "uuid": "c6021004-1ee2-4bd1-b90c-4af66948d5f9",
+        "price": 430.54,
+        "size": 0.0000065,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:06:02.2830000Z",
+        "time_coinapi": "2016-01-01T00:06:02.4270000Z",
+        "uuid": "a3b6e68a-86f9-4b89-aebd-5cc903d6ac57",
+        "price": 432.53,
+        "size": 0.04217949,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:06:24.8400000Z",
+        "time_coinapi": "2016-01-01T00:06:24.9830000Z",
+        "uuid": "d499915f-bdcf-46fc-9f31-e5e81d60bcb7",
+        "price": 431.48,
+        "size": 0.13086646,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:06:25.6230000Z",
+        "time_coinapi": "2016-01-01T00:06:25.7670000Z",
+        "uuid": "4d042d16-27f1-474c-b51c-a5f8ac2915f8",
+        "price": 431.48,
+        "size": 0.02317184,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:06:25.7270000Z",
+        "time_coinapi": "2016-01-01T00:06:25.8700000Z",
+        "uuid": "798de9e6-4137-4dc1-bb75-f41d3b8c6531",
+        "price": 431.48,
+        "size": 2,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:06:41.3670000Z",
+        "time_coinapi": "2016-01-01T00:06:41.4900000Z",
+        "uuid": "a5fbf355-ca74-4572-a804-720677fdc556",
+        "price": 431.48,
+        "size": 0.58946849,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:06:41.4270000Z",
+        "time_coinapi": "2016-01-01T00:06:41.5500000Z",
+        "uuid": "2610eb6f-887a-4f0d-a3f7-dda037900d36",
+        "price": 431.48,
+        "size": 1.26841229,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:06:41.7200000Z",
+        "time_coinapi": "2016-01-01T00:06:41.8430000Z",
+        "uuid": "e1fd8381-23e3-4ebf-a6f4-a6d79697efcd",
+        "price": 432.52,
+        "size": 0.06321959,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:07:07.2430000Z",
+        "time_coinapi": "2016-01-01T00:07:07.3830000Z",
+        "uuid": "a110ecf9-55c1-44c1-8c73-a734b69d44a1",
+        "price": 432.52,
+        "size": 0.03678041,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:07:08.6500000Z",
+        "time_coinapi": "2016-01-01T00:07:08.7900000Z",
+        "uuid": "48f13181-cc7e-4b7d-a8a6-545958215378",
+        "price": 432.53,
+        "size": 0.35757057,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:07:50.1500000Z",
+        "time_coinapi": "2016-01-01T00:07:50.2430000Z",
+        "uuid": "fa1abc3c-6def-4fbe-8866-a9fd42513825",
+        "price": 432.53,
+        "size": 0.02188161,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:08:10.7270000Z",
+        "time_coinapi": "2016-01-01T00:08:10.8500000Z",
+        "uuid": "f6eb93d2-2ebc-4d08-acc3-caf4e4f12715",
+        "price": 432.53,
+        "size": 0.09271643,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:09:27.2470000Z",
+        "time_coinapi": "2016-01-01T00:09:27.3830000Z",
+        "uuid": "4f678d68-460d-4bc8-bf49-331d025d7870",
+        "price": 432.53,
+        "size": 0.04201825,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:09:44.8000000Z",
+        "time_coinapi": "2016-01-01T00:09:44.9200000Z",
+        "uuid": "b0849834-f593-4209-be00-093a55e40d50",
+        "price": 432.52,
+        "size": 0.31513685,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:09:57.6630000Z",
+        "time_coinapi": "2016-01-01T00:09:57.8100000Z",
+        "uuid": "e8002589-f70e-458c-bbc9-0c4d2216ba4d",
+        "price": 432.51,
+        "size": 0.3302919,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:11:16.0930000Z",
+        "time_coinapi": "2016-01-01T00:11:16.1770000Z",
+        "uuid": "96c17dcf-30d0-4fc7-add6-237edcbc937b",
+        "price": 432.38,
+        "size": 0.13652957,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:12:12.9300000Z",
+        "time_coinapi": "2016-01-01T00:12:13.0700000Z",
+        "uuid": "d4111912-3b9c-4750-ae91-24c82e2198c0",
+        "price": 432.38,
+        "size": 0.04205211,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:13:30.4370000Z",
+        "time_coinapi": "2016-01-01T00:13:30.5700000Z",
+        "uuid": "b3ab3a61-28f9-4da9-a6fa-2775c5e57c48",
+        "price": 432.38,
+        "size": 0.01531832,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:13:30.5100000Z",
+        "time_coinapi": "2016-01-01T00:13:30.6430000Z",
+        "uuid": "0c1445ba-97a7-4092-b6c0-f80e27f9e14e",
+        "price": 432.38,
+        "size": 0.00537101,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:13:43.7970000Z",
+        "time_coinapi": "2016-01-01T00:13:43.9230000Z",
+        "uuid": "147db60a-fc01-4a74-a41c-470a0f2432c0",
+        "price": 431.46,
+        "size": 0.21234178,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:13:46.5470000Z",
+        "time_coinapi": "2016-01-01T00:13:46.6730000Z",
+        "uuid": "63eafb89-d176-42fe-8285-88554803978a",
+        "price": 431.46,
+        "size": 0.01411,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:15:18.5270000Z",
+        "time_coinapi": "2016-01-01T00:15:18.6330000Z",
+        "uuid": "15fa3eb5-9196-45be-8986-e8b6b4956d7f",
+        "price": 432.38,
+        "size": 0.11576217,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:15:25.8170000Z",
+        "time_coinapi": "2016-01-01T00:15:25.9130000Z",
+        "uuid": "c6e92aa1-faba-4698-9dba-88f98e74fde8",
+        "price": 432.38,
+        "size": 0.04176184,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:16:56.8770000Z",
+        "time_coinapi": "2016-01-01T00:16:57.0130000Z",
+        "uuid": "d9c00ac7-8b74-4b2b-b2c9-83b87daf4d23",
+        "price": 432.38,
+        "size": 0.25654662,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:16:56.9430000Z",
+        "time_coinapi": "2016-01-01T00:16:57.0800000Z",
+        "uuid": "5b4867c2-caf0-48eb-98e6-2fdd90ac3a2f",
+        "price": 432.38,
+        "size": 0.23,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:16:58.5070000Z",
+        "time_coinapi": "2016-01-01T00:16:58.6430000Z",
+        "uuid": "f9a25e45-2018-4429-b055-e7d924afe970",
+        "price": 432.53,
+        "size": 0.62105365,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:16:58.7800000Z",
+        "time_coinapi": "2016-01-01T00:16:58.9170000Z",
+        "uuid": "6c07af42-19e2-48a3-80eb-d46b3d88fb8a",
+        "price": 432.58,
+        "size": 1.39416986,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:18:00.9500000Z",
+        "time_coinapi": "2016-01-01T00:18:01.0630000Z",
+        "uuid": "f24420dc-a318-4918-9df0-a9c7aeac7b02",
+        "price": 432.31,
+        "size": 0.0214,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:18:02.8570000Z",
+        "time_coinapi": "2016-01-01T00:18:02.9670000Z",
+        "uuid": "e7883e1a-c209-43e6-b31d-55370e3ddcd0",
+        "price": 432.28,
+        "size": 0.0214,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:18:02.8830000Z",
+        "time_coinapi": "2016-01-01T00:18:02.9970000Z",
+        "uuid": "74060fd1-114f-45d6-b72c-9f3350c4dfdc",
+        "price": 431.47,
+        "size": 0.19208827,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:20:28.1700000Z",
+        "time_coinapi": "2016-01-01T00:20:28.2570000Z",
+        "uuid": "831040b8-9cbc-4ea1-b501-a72611369c92",
+        "price": 431.58,
+        "size": 0.09509005,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:22:30.0730000Z",
+        "time_coinapi": "2016-01-01T00:22:30.1700000Z",
+        "uuid": "e1e2493d-ace0-42e7-a267-e99351668596",
+        "price": 431.67,
+        "size": 1.39401894,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:22:30.1300000Z",
+        "time_coinapi": "2016-01-01T00:22:30.2270000Z",
+        "uuid": "1aeb46c2-ec10-4e5f-b8cf-7d5051150417",
+        "price": 431.67,
+        "size": 2.49412103,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:23:00.4470000Z",
+        "time_coinapi": "2016-01-01T00:23:00.5330000Z",
+        "uuid": "7309e9a1-87cf-4592-9c0b-e249701b2979",
+        "price": 432.4,
+        "size": 0.0614154,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:23:25.9600000Z",
+        "time_coinapi": "2016-01-01T00:23:26.0430000Z",
+        "uuid": "4b424493-bae7-465a-9c09-ca1d8e70ac70",
+        "price": 432.4,
+        "size": 0.69455698,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:23:27.5400000Z",
+        "time_coinapi": "2016-01-01T00:23:27.6230000Z",
+        "uuid": "4adbe64b-e803-40dc-b789-95d09cf8477d",
+        "price": 431.46,
+        "size": 0.0168,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:27:14.7600000Z",
+        "time_coinapi": "2016-01-01T00:27:14.8500000Z",
+        "uuid": "d0dc126c-5101-4992-8f31-cd5cc3f30916",
+        "price": 432.4,
+        "size": 0.12823837,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:30:17.7370000Z",
+        "time_coinapi": "2016-01-01T00:30:17.8300000Z",
+        "uuid": "4e8be02f-2e5a-4205-9569-3b9eb28841ec",
+        "price": 431.46,
+        "size": 0.27658748,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:31:16.6470000Z",
+        "time_coinapi": "2016-01-01T00:31:16.7300000Z",
+        "uuid": "18998b39-d67c-4b11-b5bc-32b58528d22b",
+        "price": 432.39,
+        "size": 0.03209778,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:31:34.0830000Z",
+        "time_coinapi": "2016-01-01T00:31:34.1670000Z",
+        "uuid": "a572916d-4c55-400a-81ca-cafe5516a20a",
+        "price": 432.39,
+        "size": 0.57412745,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:33:55.2370000Z",
+        "time_coinapi": "2016-01-01T00:33:55.3230000Z",
+        "uuid": "5a8c09f7-7dea-45e6-a71d-94d8d7150057",
+        "price": 431.45,
+        "size": 1.84858413,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:33:55.2930000Z",
+        "time_coinapi": "2016-01-01T00:33:55.3770000Z",
+        "uuid": "5a5e5e10-fbdb-41e1-98ca-1a36c82c6bf3",
+        "price": 431.45,
+        "size": 1.44221587,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:34:07.0030000Z",
+        "time_coinapi": "2016-01-01T00:34:07.0870000Z",
+        "uuid": "6c646d0d-3858-4bdd-ae93-6b091de7a1f8",
+        "price": 432.4,
+        "size": 0.09981939,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:34:36.4500000Z",
+        "time_coinapi": "2016-01-01T00:34:36.5400000Z",
+        "uuid": "b6166ac2-473c-42f3-90d2-7ab749fe19c2",
+        "price": 431.45,
+        "size": 0.41566491,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:34:41.0000000Z",
+        "time_coinapi": "2016-01-01T00:34:41.0900000Z",
+        "uuid": "4c9d487d-885b-412d-8ffc-8fcbb53bae1b",
+        "price": 431.34,
+        "size": 0.13117762,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:35:03.0000000Z",
+        "time_coinapi": "2016-01-01T00:35:03.0900000Z",
+        "uuid": "c3c890d5-e75b-431b-9b7e-0fd396548ee9",
+        "price": 432.4,
+        "size": 0.01596986,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:35:03.0670000Z",
+        "time_coinapi": "2016-01-01T00:35:03.1570000Z",
+        "uuid": "64bca523-1762-46ad-82c1-07fb8c852b82",
+        "price": 432.4,
+        "size": 0.00717306,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:35:17.5170000Z",
+        "time_coinapi": "2016-01-01T00:35:17.6070000Z",
+        "uuid": "fdaafc10-2067-4680-8281-fadc16a28bd6",
+        "price": 431.46,
+        "size": 0.1689,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:35:20.3500000Z",
+        "time_coinapi": "2016-01-01T00:35:20.4370000Z",
+        "uuid": "ab60f912-28c6-4009-aa1a-45aa5881bf9c",
+        "price": 431.46,
+        "size": 0.42,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:35:27.0300000Z",
+        "time_coinapi": "2016-01-01T00:35:27.1170000Z",
+        "uuid": "8a6e9661-e27c-4e7f-96d2-e839603534ee",
+        "price": 431.46,
+        "size": 0.4111,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:35:40.4370000Z",
+        "time_coinapi": "2016-01-01T00:35:40.5270000Z",
+        "uuid": "3907a4f0-3ba6-4210-94d6-2fc41f35334a",
+        "price": 431.46,
+        "size": 0.5,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:36:30.7430000Z",
+        "time_coinapi": "2016-01-01T00:36:30.8370000Z",
+        "uuid": "9054bccc-39bb-4a21-9e05-73fa656c72c2",
+        "price": 431.46,
+        "size": 0.31107001,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:36:30.8000000Z",
+        "time_coinapi": "2016-01-01T00:36:30.8900000Z",
+        "uuid": "6bf31f20-1ac4-42d0-aba9-d4d67ae860eb",
+        "price": 431.57,
+        "size": 1.22217001,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:36:51.3100000Z",
+        "time_coinapi": "2016-01-01T00:36:51.4030000Z",
+        "uuid": "00b6f67d-46b5-445c-8ea4-750bc95ca372",
+        "price": 432,
+        "size": 0.56,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:37:06.0300000Z",
+        "time_coinapi": "2016-01-01T00:37:06.1230000Z",
+        "uuid": "426fa6e8-ad93-4c3b-b2e1-1378c9967810",
+        "price": 432,
+        "size": 0.282,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:37:20.0470000Z",
+        "time_coinapi": "2016-01-01T00:37:20.1400000Z",
+        "uuid": "817f206d-a524-47b2-ae58-6a366a5fa7e8",
+        "price": 432,
+        "size": 0.63376496,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:37:21.3200000Z",
+        "time_coinapi": "2016-01-01T00:37:21.4130000Z",
+        "uuid": "3ded04af-c317-44a3-957f-21c702e98f36",
+        "price": 432.06,
+        "size": 0.02317899,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:37:29.0570000Z",
+        "time_coinapi": "2016-01-01T00:37:29.1500000Z",
+        "uuid": "532c8a92-9b5c-4ad5-bdb0-63e083ed2f15",
+        "price": 432,
+        "size": 0.75,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:37:43.8870000Z",
+        "time_coinapi": "2016-01-01T00:37:43.9700000Z",
+        "uuid": "75c56516-c08d-4b93-93ad-cd30f1f6e462",
+        "price": 432,
+        "size": 0.24099502,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:38:46.5970000Z",
+        "time_coinapi": "2016-01-01T00:38:46.6800000Z",
+        "uuid": "92a93489-23a7-4a33-b2ed-63630b261964",
+        "price": 431.97,
+        "size": 0.13096425,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:39:11.9900000Z",
+        "time_coinapi": "2016-01-01T00:39:12.0730000Z",
+        "uuid": "06d605e8-2d9a-44dc-9994-349b8211142c",
+        "price": 431.13,
+        "size": 0.13112241,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:39:26.9130000Z",
+        "time_coinapi": "2016-01-01T00:39:26.9970000Z",
+        "uuid": "bc4fa341-9bf5-42df-9cf4-ca78da0d0967",
+        "price": 431.11,
+        "size": 1.1869,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:39:26.9730000Z",
+        "time_coinapi": "2016-01-01T00:39:27.0570000Z",
+        "uuid": "25d9c251-bc6a-45a6-a306-004da8df5b31",
+        "price": 431.12,
+        "size": 0.23,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:39:27.0370000Z",
+        "time_coinapi": "2016-01-01T00:39:27.1200000Z",
+        "uuid": "8f7f5459-7181-4b57-8e7b-3ce00495d2b5",
+        "price": 431.12,
+        "size": 0.23,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:39:27.0970000Z",
+        "time_coinapi": "2016-01-01T00:39:27.1800000Z",
+        "uuid": "899d4a75-9d1a-4b40-99c5-e33861c614fe",
+        "price": 431.12,
+        "size": 0.229,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:39:27.1570000Z",
+        "time_coinapi": "2016-01-01T00:39:27.2400000Z",
+        "uuid": "ba93816e-a6bb-4f52-bcbe-8d7025847e14",
+        "price": 431.12,
+        "size": 0.08467223,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:43:38.3030000Z",
+        "time_coinapi": "2016-01-01T00:43:38.3970000Z",
+        "uuid": "a0315755-4d34-4b68-9dba-0576046852df",
+        "price": 431.06,
+        "size": 0.23,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:43:38.3800000Z",
+        "time_coinapi": "2016-01-01T00:43:38.4730000Z",
+        "uuid": "2b0d0d41-3e04-4bb7-97e3-c27873b7d629",
+        "price": 431.06,
+        "size": 0.10140703,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:45:01.1630000Z",
+        "time_coinapi": "2016-01-01T00:45:01.2500000Z",
+        "uuid": "874ff3c1-2838-494b-b4fd-223651550000",
+        "price": 431.02,
+        "size": 0.23,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:45:01.2270000Z",
+        "time_coinapi": "2016-01-01T00:45:01.3100000Z",
+        "uuid": "131a94b2-dd44-49aa-af36-29faef465e32",
+        "price": 431.02,
+        "size": 0.12759297,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:45:01.2870000Z",
+        "time_coinapi": "2016-01-01T00:45:01.3700000Z",
+        "uuid": "7993d04d-e34f-4839-82af-85177370580a",
+        "price": 431.02,
+        "size": 0.33532777,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:45:01.3500000Z",
+        "time_coinapi": "2016-01-01T00:45:01.4370000Z",
+        "uuid": "d95a9a49-23cf-4242-a3a6-7534290d202b",
+        "price": 431.02,
+        "size": 0.23,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:45:01.4100000Z",
+        "time_coinapi": "2016-01-01T00:45:01.4930000Z",
+        "uuid": "2d1dd272-86b4-47ee-9f76-3f6970e88a8f",
+        "price": 431.02,
+        "size": 0.11052298,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:45:33.1270000Z",
+        "time_coinapi": "2016-01-01T00:45:33.2170000Z",
+        "uuid": "f041c899-10ee-4cb1-b7fa-36948caaeff9",
+        "price": 431.02,
+        "size": 0.11847702,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:45:33.1930000Z",
+        "time_coinapi": "2016-01-01T00:45:33.2870000Z",
+        "uuid": "1e8d64ef-ee31-4602-816a-f18cb6522ddf",
+        "price": 431.02,
+        "size": 0.12716598,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:45:46.7770000Z",
+        "time_coinapi": "2016-01-01T00:45:46.8730000Z",
+        "uuid": "8757d4e5-96ca-45ab-840f-8f1238251d51",
+        "price": 431.02,
+        "size": 0.10283402,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:45:46.8400000Z",
+        "time_coinapi": "2016-01-01T00:45:46.9370000Z",
+        "uuid": "df211f73-ac6f-481d-8b2d-eabe207f2e28",
+        "price": 431.14,
+        "size": 0.10431254,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:45:51.0900000Z",
+        "time_coinapi": "2016-01-01T00:45:51.1870000Z",
+        "uuid": "08d9ce95-3790-47a0-bada-2ebb5b1adb75",
+        "price": 430.46,
+        "size": 0.19969246,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:45:51.1600000Z",
+        "time_coinapi": "2016-01-01T00:45:51.2570000Z",
+        "uuid": "4ac096e4-4a4a-4716-9bdf-5e80dc045c8c",
+        "price": 430.46,
+        "size": 0.23002223,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:45:52.5230000Z",
+        "time_coinapi": "2016-01-01T00:45:52.6230000Z",
+        "uuid": "4817b2d4-4bcd-480b-8837-03dad7b4af44",
+        "price": 430.08,
+        "size": 0.05179089,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:46:50.0930000Z",
+        "time_coinapi": "2016-01-01T00:46:50.1800000Z",
+        "uuid": "996cea51-5669-4ee5-9fcd-8913baf8594d",
+        "price": 430.12,
+        "size": 0.17134218,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:48:09.4870000Z",
+        "time_coinapi": "2016-01-01T00:48:09.5700000Z",
+        "uuid": "5df6f7da-4c3d-4c65-90b3-0ec3dd7a8657",
+        "price": 431.14,
+        "size": 0.01180449,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:49:09.4270000Z",
+        "time_coinapi": "2016-01-01T00:49:09.5100000Z",
+        "uuid": "c637b6d7-de1e-4615-8701-78f6461a365c",
+        "price": 430.46,
+        "size": 0.09981939,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:52:10.8130000Z",
+        "time_coinapi": "2016-01-01T00:52:10.9030000Z",
+        "uuid": "be52f726-31d5-4868-adae-a60027b72137",
+        "price": 430.47,
+        "size": 1.8,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:52:21.5900000Z",
+        "time_coinapi": "2016-01-01T00:52:21.6800000Z",
+        "uuid": "cae32823-4340-4a5b-b610-4c7fc7fd8526",
+        "price": 431.86,
+        "size": 0.25132896,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:52:37.6670000Z",
+        "time_coinapi": "2016-01-01T00:52:37.7530000Z",
+        "uuid": "06589fb7-44f2-4e7f-b323-fd6432bf10b1",
+        "price": 431.88,
+        "size": 1.2517,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:53:21.5170000Z",
+        "time_coinapi": "2016-01-01T00:53:21.6000000Z",
+        "uuid": "711099aa-5bdf-4649-80c4-1857a640ac62",
+        "price": 431.05,
+        "size": 0.012,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:53:30.9700000Z",
+        "time_coinapi": "2016-01-01T00:53:31.0570000Z",
+        "uuid": "0a2351da-ccff-4679-8d39-8efa2574e806",
+        "price": 430.84,
+        "size": 0.012,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:55:26.0270000Z",
+        "time_coinapi": "2016-01-01T00:55:26.1130000Z",
+        "uuid": "86d51c6c-b713-4fa8-8e8d-14c253c4d3a8",
+        "price": 430.46,
+        "size": 0.12343053,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:55:26.0900000Z",
+        "time_coinapi": "2016-01-01T00:55:26.1730000Z",
+        "uuid": "a83eabaa-265c-4402-80fe-ece5959a3ece",
+        "price": 430.46,
+        "size": 0.16074634,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:55:26.1400000Z",
+        "time_coinapi": "2016-01-01T00:55:26.2270000Z",
+        "uuid": "1e69d2d3-b771-46bf-915a-97d3ac5337fd",
+        "price": 429.84,
+        "size": 0.68930161,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:55:41.5400000Z",
+        "time_coinapi": "2016-01-01T00:55:41.6300000Z",
+        "uuid": "e4cfc588-557a-4452-af7e-b72a7dd23a28",
+        "price": 429.85,
+        "size": 0.5,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:56:27.1470000Z",
+        "time_coinapi": "2016-01-01T00:56:27.2370000Z",
+        "uuid": "b4422d14-1ab3-4c67-b54e-6cbaecf7ea66",
+        "price": 429.82,
+        "size": 0.5,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:57:43.4330000Z",
+        "time_coinapi": "2016-01-01T00:57:43.5170000Z",
+        "uuid": "8f543171-04d0-434b-8d32-1811874a3e74",
+        "price": 431.05,
+        "size": 0.4341784,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T00:59:06.6270000Z",
+        "time_coinapi": "2016-01-01T00:59:06.7100000Z",
+        "uuid": "b74095c1-e6b4-4d1c-89d4-0eebdc7327d5",
+        "price": 431.02,
+        "size": 0.08285347,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:00:30.0100000Z",
+        "time_coinapi": "2016-01-01T01:00:30.1070000Z",
+        "uuid": "3addc093-4dfb-43ab-8074-f69651f8e4a6",
+        "price": 431.51,
+        "size": 0.012,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:00:30.6500000Z",
+        "time_coinapi": "2016-01-01T01:00:30.7470000Z",
+        "uuid": "272f57e2-08d6-4f28-b2db-ee3ea7a0e2b1",
+        "price": 431.72,
+        "size": 1.39657977,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:00:30.7170000Z",
+        "time_coinapi": "2016-01-01T01:00:30.8170000Z",
+        "uuid": "99228378-65d4-4c30-9823-0d60eb3d9208",
+        "price": 431.73,
+        "size": 0.86299,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:00:30.7770000Z",
+        "time_coinapi": "2016-01-01T01:00:30.8770000Z",
+        "uuid": "5aaf7516-06f9-4cf2-80a5-6df86d203207",
+        "price": 431.74,
+        "size": 0.06126868,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:01:03.2030000Z",
+        "time_coinapi": "2016-01-01T01:01:03.2900000Z",
+        "uuid": "0eb7f337-6480-457e-b325-49621c653ac2",
+        "price": 432.01,
+        "size": 0.11575146,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:01:08.8200000Z",
+        "time_coinapi": "2016-01-01T01:01:08.9030000Z",
+        "uuid": "cc89445f-a237-42bf-b226-c273d94b934b",
+        "price": 430.6,
+        "size": 0.0908109,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:05:14.3330000Z",
+        "time_coinapi": "2016-01-01T01:05:14.4230000Z",
+        "uuid": "1a939595-daea-4c79-bf22-d82e49a73e44",
+        "price": 430.6,
+        "size": 0.01288899,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:05:39.7400000Z",
+        "time_coinapi": "2016-01-01T01:05:39.8300000Z",
+        "uuid": "2cac1bfb-10b6-4b2e-9859-ab2fa36c83f7",
+        "price": 431.1,
+        "size": 0.11403209,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:05:55.4030000Z",
+        "time_coinapi": "2016-01-01T01:05:55.4930000Z",
+        "uuid": "55140460-f1f7-4704-9207-e4101156023b",
+        "price": 431.29,
+        "size": 0.012,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:05:55.4700000Z",
+        "time_coinapi": "2016-01-01T01:05:55.5600000Z",
+        "uuid": "078946f3-6b74-4818-a942-04994d4ca99c",
+        "price": 431.38,
+        "size": 0.53731,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:05:55.5400000Z",
+        "time_coinapi": "2016-01-01T01:05:55.6300000Z",
+        "uuid": "34f385b2-2065-4c01-a627-59e40c88d2eb",
+        "price": 431.39,
+        "size": 2.61693447,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:06:08.2930000Z",
+        "time_coinapi": "2016-01-01T01:06:08.3830000Z",
+        "uuid": "8927d0f2-67da-49ec-9284-f6ba1973028c",
+        "price": 431.39,
+        "size": 0.0116117,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:06:24.1770000Z",
+        "time_coinapi": "2016-01-01T01:06:24.2700000Z",
+        "uuid": "15b6d6ba-435b-4075-a922-5035416c7648",
+        "price": 431.39,
+        "size": 0.04142245,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:07:11.3670000Z",
+        "time_coinapi": "2016-01-01T01:07:11.4600000Z",
+        "uuid": "c928469b-eac2-4817-b07d-47bbeccedab0",
+        "price": 429.83,
+        "size": 2.448,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:09:12.9870000Z",
+        "time_coinapi": "2016-01-01T01:09:13.0770000Z",
+        "uuid": "888d7d1f-3b59-47df-91dc-824fa12e9637",
+        "price": 429.8,
+        "size": 0.02296094,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:09:13.0500000Z",
+        "time_coinapi": "2016-01-01T01:09:13.1400000Z",
+        "uuid": "5ca53da2-c874-4a4e-97cd-599d5a8b3be7",
+        "price": 429.69,
+        "size": 1.50880929,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:09:13.1070000Z",
+        "time_coinapi": "2016-01-01T01:09:13.1970000Z",
+        "uuid": "577046fa-1211-40c8-b00d-866eb56cafb2",
+        "price": 429.69,
+        "size": 0.44253844,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:11:41.0270000Z",
+        "time_coinapi": "2016-01-01T01:11:41.1170000Z",
+        "uuid": "d0a2ef1f-74b8-4424-bccc-53768f55d4f1",
+        "price": 431.35,
+        "size": 0.25891124,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:11:46.1730000Z",
+        "time_coinapi": "2016-01-01T01:11:46.2630000Z",
+        "uuid": "d29054f9-f3aa-45c3-a2cb-7827f9219776",
+        "price": 431.36,
+        "size": 0.19890978,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:11:47.8570000Z",
+        "time_coinapi": "2016-01-01T01:11:47.9470000Z",
+        "uuid": "289b13ef-954d-4e22-9d7b-7c5febc7b1b5",
+        "price": 431.36,
+        "size": 0.08278831,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:12:16.2270000Z",
+        "time_coinapi": "2016-01-01T01:12:16.3100000Z",
+        "uuid": "3fb6c6c2-74df-41b1-8458-7de845733e72",
+        "price": 430.49,
+        "size": 0.13373295,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:12:49.7930000Z",
+        "time_coinapi": "2016-01-01T01:12:49.8770000Z",
+        "uuid": "b2bdccc9-3893-4214-a2d2-fd1637b37a72",
+        "price": 430.49,
+        "size": 0.0937,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:12:49.8600000Z",
+        "time_coinapi": "2016-01-01T01:12:49.9430000Z",
+        "uuid": "9a7bd610-93e9-4348-9f87-f349196804fb",
+        "price": 430.5,
+        "size": 0.0053,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:12:56.6270000Z",
+        "time_coinapi": "2016-01-01T01:12:56.7100000Z",
+        "uuid": "816a35ef-ff6c-466a-b32d-714164d95f2b",
+        "price": 429.53,
+        "size": 0.19890978,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:14:33.0170000Z",
+        "time_coinapi": "2016-01-01T01:14:33.1070000Z",
+        "uuid": "062c4132-f0c5-420b-a59c-afe526eb3801",
+        "price": 431.36,
+        "size": 0.25890515,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:17:55.0600000Z",
+        "time_coinapi": "2016-01-01T01:17:55.1530000Z",
+        "uuid": "ab2297b1-684c-487d-b5e0-0be681e25a59",
+        "price": 431.38,
+        "size": 0.0462,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:21:10.7770000Z",
+        "time_coinapi": "2016-01-01T01:21:10.8700000Z",
+        "uuid": "cd0bb877-39c8-4b2b-84fc-d892285f5c75",
+        "price": 430.82,
+        "size": 0.0874716,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:21:10.8370000Z",
+        "time_coinapi": "2016-01-01T01:21:10.9300000Z",
+        "uuid": "fe46bc12-e9ac-4f40-b71c-da77607eb445",
+        "price": 430.01,
+        "size": 0.0114284,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:21:37.7630000Z",
+        "time_coinapi": "2016-01-01T01:21:37.8500000Z",
+        "uuid": "f93c07db-e808-4eea-83da-d8ebb8d5dde2",
+        "price": 429.88,
+        "size": 0.02399997,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:22:11.1470000Z",
+        "time_coinapi": "2016-01-01T01:22:11.2300000Z",
+        "uuid": "9f90d195-57b2-4214-949a-aa75585eb8c2",
+        "price": 429.12,
+        "size": 0.012,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:22:11.2100000Z",
+        "time_coinapi": "2016-01-01T01:22:11.2930000Z",
+        "uuid": "3af0e566-6ac1-41c2-b776-fb8490e85e72",
+        "price": 429.09,
+        "size": 3.76775,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:22:11.2730000Z",
+        "time_coinapi": "2016-01-01T01:22:11.3600000Z",
+        "uuid": "fa684255-8fec-4923-822c-9b9ef7c20f46",
+        "price": 429.08,
+        "size": 0.46074431,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:22:12.0430000Z",
+        "time_coinapi": "2016-01-01T01:22:12.1300000Z",
+        "uuid": "cdc719e7-fbb2-4f26-99d6-5db49c637169",
+        "price": 430.79,
+        "size": 0.13368642,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:22:27.8170000Z",
+        "time_coinapi": "2016-01-01T01:22:27.9000000Z",
+        "uuid": "90c09bc5-bd34-4b18-be7b-1f0e77d07c34",
+        "price": 430.35,
+        "size": 0.13644085,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:22:34.3530000Z",
+        "time_coinapi": "2016-01-01T01:22:34.4370000Z",
+        "uuid": "3b9351a0-3604-4e12-bec8-2d6c65ac6cbf",
+        "price": 430.35,
+        "size": 0.21078611,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:23:25.8070000Z",
+        "time_coinapi": "2016-01-01T01:23:25.9000000Z",
+        "uuid": "91a0b326-4a5e-47aa-b026-d9a0201d5ff8",
+        "price": 430.77,
+        "size": 0.39,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:24:13.1330000Z",
+        "time_coinapi": "2016-01-01T01:24:13.2170000Z",
+        "uuid": "9be51680-2fca-4fff-9831-090e7157d48b",
+        "price": 430.77,
+        "size": 0.01498203,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:24:59.9100000Z",
+        "time_coinapi": "2016-01-01T01:24:59.9930000Z",
+        "uuid": "df3461b9-214d-4e7e-a7a3-a7bdde8bca59",
+        "price": 430.77,
+        "size": 0.6405,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:25:00.0230000Z",
+        "time_coinapi": "2016-01-01T01:25:00.1070000Z",
+        "uuid": "8ab1b537-1a97-47ff-833e-10ba26e10dd3",
+        "price": 430.78,
+        "size": 1.22516393,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:25:00.0530000Z",
+        "time_coinapi": "2016-01-01T01:25:00.1370000Z",
+        "uuid": "d25f2801-379a-4301-9201-4f124c205989",
+        "price": 430.8,
+        "size": 0.11496856,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:25:51.1870000Z",
+        "time_coinapi": "2016-01-01T01:25:51.2830000Z",
+        "uuid": "5beeabea-ff9e-4c37-a1e0-4c41626dd939",
+        "price": 431.06,
+        "size": 0.0844289,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:26:46.1970000Z",
+        "time_coinapi": "2016-01-01T01:26:46.2900000Z",
+        "uuid": "e5f5c440-35ca-4c77-a50c-a97a338bc759",
+        "price": 429.5,
+        "size": 0.13626594,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:27:01.5330000Z",
+        "time_coinapi": "2016-01-01T01:27:01.6300000Z",
+        "uuid": "71868e80-c25d-42c5-865a-2cb222e84240",
+        "price": 429.57,
+        "size": 0.5,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:30:04.0230000Z",
+        "time_coinapi": "2016-01-01T01:30:04.1130000Z",
+        "uuid": "7a478020-3b57-4ea0-8b38-393feff7a95c",
+        "price": 431.23,
+        "size": 0.0402,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:31:52.6930000Z",
+        "time_coinapi": "2016-01-01T01:31:52.7870000Z",
+        "uuid": "f50a3141-7cde-4177-b0ea-ef3ef3cecee3",
+        "price": 431.37,
+        "size": 0.04224338,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:34:22.9270000Z",
+        "time_coinapi": "2016-01-01T01:34:23.0200000Z",
+        "uuid": "c0a2a2f9-6b5c-4f70-a730-4959f1c95622",
+        "price": 430.24,
+        "size": 1.76516448,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:34:22.9930000Z",
+        "time_coinapi": "2016-01-01T01:34:23.0870000Z",
+        "uuid": "f647c691-5826-40fa-8346-fc51a8b3d6a3",
+        "price": 430.24,
+        "size": 0.21546801,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:34:28.4800000Z",
+        "time_coinapi": "2016-01-01T01:34:28.5700000Z",
+        "uuid": "af625d73-0fd1-464a-9ed1-b23ab7620423",
+        "price": 429.72,
+        "size": 1.09580224,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:34:56.3200000Z",
+        "time_coinapi": "2016-01-01T01:34:56.4100000Z",
+        "uuid": "d56f5986-d1b0-4535-a54a-6e96163280df",
+        "price": 430.83,
+        "size": 0.11487,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:34:58.4800000Z",
+        "time_coinapi": "2016-01-01T01:34:58.5700000Z",
+        "uuid": "12850f4e-4a0e-440b-8a09-4a5fa6ad4855",
+        "price": 430.83,
+        "size": 0.02155494,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:35:09.7330000Z",
+        "time_coinapi": "2016-01-01T01:35:09.8230000Z",
+        "uuid": "70c4a2bb-ae58-4bf6-b0e1-0e1e6ca3d11c",
+        "price": 430.77,
+        "size": 1.97898782,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:35:25.8470000Z",
+        "time_coinapi": "2016-01-01T01:35:25.9330000Z",
+        "uuid": "3af1cd0f-8622-40e8-8c75-0e76f4a4ff93",
+        "price": 430.11,
+        "size": 0.13649542,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:36:28.4830000Z",
+        "time_coinapi": "2016-01-01T01:36:28.5700000Z",
+        "uuid": "6d90c6f0-f61c-4e01-be81-4d981af9147e",
+        "price": 429.35,
+        "size": 0.03153,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:37:05.0570000Z",
+        "time_coinapi": "2016-01-01T01:37:05.1470000Z",
+        "uuid": "d330fb70-ba50-43f4-83b7-fb052083e5d3",
+        "price": 430.11,
+        "size": 0.1346118,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:38:00.3870000Z",
+        "time_coinapi": "2016-01-01T01:38:00.4730000Z",
+        "uuid": "8d705cd6-d78a-4ecc-a686-6a082faa6c41",
+        "price": 430.11,
+        "size": 0.18990551,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:41:00.7770000Z",
+        "time_coinapi": "2016-01-01T01:41:00.8670000Z",
+        "uuid": "b8352d77-bf96-4839-b1df-11dceaa36b7a",
+        "price": 430.11,
+        "size": 0.02327015,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:45:12.2800000Z",
+        "time_coinapi": "2016-01-01T01:45:12.3770000Z",
+        "uuid": "7cad4a24-d640-4505-bc7a-758e548d05ab",
+        "price": 430.12,
+        "size": 0.1113,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:46:19.7070000Z",
+        "time_coinapi": "2016-01-01T01:46:19.7900000Z",
+        "uuid": "017e363e-b342-4154-9225-830e61864fb4",
+        "price": 429.51,
+        "size": 1.97898782,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:52:07.1070000Z",
+        "time_coinapi": "2016-01-01T01:52:07.1930000Z",
+        "uuid": "c1242541-3431-4fcc-8dac-0af6b4cae7a7",
+        "price": 430.11,
+        "size": 0.20403339,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:53:53.0470000Z",
+        "time_coinapi": "2016-01-01T01:53:53.1330000Z",
+        "uuid": "18fff893-6760-47cd-9c52-1e33c1c74580",
+        "price": 430.11,
+        "size": 1.51296445,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:54:01.7030000Z",
+        "time_coinapi": "2016-01-01T01:54:01.7900000Z",
+        "uuid": "70870676-80b1-4f36-a92f-d591e9990f51",
+        "price": 430.12,
+        "size": 0.02483161,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:54:01.7600000Z",
+        "time_coinapi": "2016-01-01T01:54:01.8470000Z",
+        "uuid": "07fe8b25-ff29-4862-9687-6239cf5ec392",
+        "price": 430.48,
+        "size": 0.02742761,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:54:18.2330000Z",
+        "time_coinapi": "2016-01-01T01:54:18.3230000Z",
+        "uuid": "9002b636-1eec-429b-9575-4615c45a89a0",
+        "price": 431.14,
+        "size": 0.012,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:54:18.2930000Z",
+        "time_coinapi": "2016-01-01T01:54:18.3800000Z",
+        "uuid": "62f19274-8e73-4e4d-a99f-bfb05f32a760",
+        "price": 431.17,
+        "size": 0.0320395,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:54:25.5570000Z",
+        "time_coinapi": "2016-01-01T01:54:25.6430000Z",
+        "uuid": "57895677-642b-4616-9ac9-b713b8fccee5",
+        "price": 430.01,
+        "size": 0.02323342,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:54:26.0970000Z",
+        "time_coinapi": "2016-01-01T01:54:26.1830000Z",
+        "uuid": "08c8482e-41a6-4c48-887b-47924ab54bce",
+        "price": 430.01,
+        "size": 0.13610622,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:54:41.4870000Z",
+        "time_coinapi": "2016-01-01T01:54:41.5700000Z",
+        "uuid": "e79de429-4f70-4b5f-91ba-98b0fae61ff9",
+        "price": 431.11,
+        "size": 0.02322394,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:55:12.0870000Z",
+        "time_coinapi": "2016-01-01T01:55:12.1700000Z",
+        "uuid": "d4dcc5c4-6fac-4fd1-89f9-ecd8ad094926",
+        "price": 430.01,
+        "size": 0.10000522,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:55:16.7730000Z",
+        "time_coinapi": "2016-01-01T01:55:16.8570000Z",
+        "uuid": "3a8e5fbf-1881-4293-a7b3-e2e87e5ad3c5",
+        "price": 430.01,
+        "size": 0.70943851,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T01:55:58.0200000Z",
+        "time_coinapi": "2016-01-01T01:55:58.1100000Z",
+        "uuid": "567ff73b-069f-45bc-8736-d2bd98a7abc7",
+        "price": 430.01,
+        "size": 0.9906604,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:03:08.9170000Z",
+        "time_coinapi": "2016-01-01T02:03:09.0000000Z",
+        "uuid": "d28322e0-0479-4141-8e3d-3b33c0a1262b",
+        "price": 430,
+        "size": 1.29807223,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:10:19.5130000Z",
+        "time_coinapi": "2016-01-01T02:10:19.6070000Z",
+        "uuid": "04ba5f52-c6b9-4db4-9303-20d84faadcff",
+        "price": 430.01,
+        "size": 0.055193,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:10:35.0130000Z",
+        "time_coinapi": "2016-01-01T02:10:35.1030000Z",
+        "uuid": "214b0183-e4c3-498c-81b8-e3685e6a80fa",
+        "price": 430.01,
+        "size": 0.33844344,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:12:21.6230000Z",
+        "time_coinapi": "2016-01-01T02:12:21.7200000Z",
+        "uuid": "a58bcf1d-2e29-4c19-9fbb-9c5e56a802c3",
+        "price": 431.17,
+        "size": 0.0229575,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:12:21.7070000Z",
+        "time_coinapi": "2016-01-01T02:12:21.8000000Z",
+        "uuid": "20c5d04a-b7e8-4629-b635-18dec195b33f",
+        "price": 431.24,
+        "size": 0.08059862,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:14:39.5670000Z",
+        "time_coinapi": "2016-01-01T02:14:39.6500000Z",
+        "uuid": "10f46e0a-df88-4e9f-a9d3-7b689491f40c",
+        "price": 431.27,
+        "size": 0.10349396,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:19:54.3670000Z",
+        "time_coinapi": "2016-01-01T02:19:54.4630000Z",
+        "uuid": "38a10cdd-d6de-4712-9769-c60fde1bbdd9",
+        "price": 430.37,
+        "size": 0.13353595,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:20:09.9570000Z",
+        "time_coinapi": "2016-01-01T02:20:10.0530000Z",
+        "uuid": "f768da0f-db91-4fb0-9ed9-f6b3488cf1f9",
+        "price": 430.37,
+        "size": 0.29045336,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:20:10.0200000Z",
+        "time_coinapi": "2016-01-01T02:20:10.1170000Z",
+        "uuid": "c8b16aaa-66fa-45b4-9f34-6cbdab4b1b02",
+        "price": 430.37,
+        "size": 0.84797862,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:20:10.0870000Z",
+        "time_coinapi": "2016-01-01T02:20:10.1830000Z",
+        "uuid": "f6064e59-ade9-4b6e-aaa9-0c0e320d3d77",
+        "price": 430.37,
+        "size": 2.35165953,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:20:32.5970000Z",
+        "time_coinapi": "2016-01-01T02:20:32.6930000Z",
+        "uuid": "490972fd-1f14-4edc-a342-c97d6a0841f3",
+        "price": 431.37,
+        "size": 0.09877738,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:20:39.7270000Z",
+        "time_coinapi": "2016-01-01T02:20:39.8200000Z",
+        "uuid": "41897037-34d4-44be-b53b-8f234c5d4240",
+        "price": 431.35,
+        "size": 0.50074575,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:22:39.0200000Z",
+        "time_coinapi": "2016-01-01T02:22:39.1130000Z",
+        "uuid": "3f902dcf-6a08-49ed-ab91-c28b332951fe",
+        "price": 431.41,
+        "size": 0.25114664,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:22:54.4270000Z",
+        "time_coinapi": "2016-01-01T02:22:54.5230000Z",
+        "uuid": "072fef25-2036-4ce1-baf7-865aeba2c185",
+        "price": 431.37,
+        "size": 0.36428507,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:23:17.0600000Z",
+        "time_coinapi": "2016-01-01T02:23:17.1570000Z",
+        "uuid": "2708b15e-bc1c-4201-8feb-c937cafa034a",
+        "price": 431.35,
+        "size": 0.04139244,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:23:26.8070000Z",
+        "time_coinapi": "2016-01-01T02:23:26.9030000Z",
+        "uuid": "eef4a001-f1a3-4296-885d-0ea195adcf83",
+        "price": 431.4,
+        "size": 0.03,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:23:42.8030000Z",
+        "time_coinapi": "2016-01-01T02:23:42.8900000Z",
+        "uuid": "390a5bbd-c4c7-4f78-873e-3d980eefb315",
+        "price": 431.36,
+        "size": 0.12345,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:25:05.2500000Z",
+        "time_coinapi": "2016-01-01T02:25:05.3400000Z",
+        "uuid": "6a43ce0a-c299-4e9d-9616-d1324f85704c",
+        "price": 431.39,
+        "size": 0.2094637,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:26:29.2770000Z",
+        "time_coinapi": "2016-01-01T02:26:29.3670000Z",
+        "uuid": "285970d1-76ff-4cc9-a27f-7b5497c22aed",
+        "price": 431.38,
+        "size": 0.19603189,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:27:30.0270000Z",
+        "time_coinapi": "2016-01-01T02:27:30.1100000Z",
+        "uuid": "a56b6650-00a6-45cb-a4da-206fe8a1be00",
+        "price": 431.67,
+        "size": 0.2105599,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:28:16.4530000Z",
+        "time_coinapi": "2016-01-01T02:28:16.5370000Z",
+        "uuid": "62222b58-c755-43ab-8c1c-612c11357679",
+        "price": 431.5,
+        "size": 0.22488826,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:28:23.2330000Z",
+        "time_coinapi": "2016-01-01T02:28:23.3170000Z",
+        "uuid": "2acd52b9-b673-4b31-8215-d6a4dbe0aca8",
+        "price": 431.43,
+        "size": 0.19119143,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:29:09.5830000Z",
+        "time_coinapi": "2016-01-01T02:29:09.6700000Z",
+        "uuid": "9b8b5537-6fe2-4fab-9766-b56a5f739ebb",
+        "price": 431.42,
+        "size": 0.24848689,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:29:49.7070000Z",
+        "time_coinapi": "2016-01-01T02:29:49.7970000Z",
+        "uuid": "79afe567-de93-4c61-8c34-704248123b4f",
+        "price": 431.69,
+        "size": 0.05622952,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:30:44.0200000Z",
+        "time_coinapi": "2016-01-01T02:30:44.1030000Z",
+        "uuid": "fba89725-bae2-4646-8b7d-c2d4af09aaf5",
+        "price": 431.4,
+        "size": 0.24411993,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:31:22.9370000Z",
+        "time_coinapi": "2016-01-01T02:31:23.0270000Z",
+        "uuid": "423cb5c4-c21f-438b-b877-7853621d1c0b",
+        "price": 431.63,
+        "size": 0.04642794,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:31:42.9170000Z",
+        "time_coinapi": "2016-01-01T02:31:43.0070000Z",
+        "uuid": "5590a6f0-d7bc-4cc2-8e43-827efe29e952",
+        "price": 431.41,
+        "size": 0.05270023,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:33:06.0330000Z",
+        "time_coinapi": "2016-01-01T02:33:06.1270000Z",
+        "uuid": "540401e7-4a71-43d5-a96f-25235a4a11ef",
+        "price": 430.22,
+        "size": 0.30604744,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:33:51.9900000Z",
+        "time_coinapi": "2016-01-01T02:33:52.0730000Z",
+        "uuid": "401c3d85-f516-4b2f-8e3b-e1705d57225d",
+        "price": 430.12,
+        "size": 0.04642794,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:35:04.2030000Z",
+        "time_coinapi": "2016-01-01T02:35:04.2930000Z",
+        "uuid": "f379b58b-1d1c-4ed5-9845-05e9b2000527",
+        "price": 431.61,
+        "size": 0.01659777,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:41:12.2030000Z",
+        "time_coinapi": "2016-01-01T02:41:12.2900000Z",
+        "uuid": "04d23da1-fc8a-416a-8666-6ae4aeae4543",
+        "price": 430.44,
+        "size": 1,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:42:28.3800000Z",
+        "time_coinapi": "2016-01-01T02:42:28.4700000Z",
+        "uuid": "b01989ac-c3e6-4b13-a226-d36e1c3473ff",
+        "price": 430.44,
+        "size": 0.02417314,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:43:31.5470000Z",
+        "time_coinapi": "2016-01-01T02:43:31.6430000Z",
+        "uuid": "2df9b207-42f3-4cbf-8353-3cef746730c9",
+        "price": 431.66,
+        "size": 0.04550708,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:44:15.2230000Z",
+        "time_coinapi": "2016-01-01T02:44:15.3200000Z",
+        "uuid": "666df11c-fca5-4fe1-a339-69a74c406024",
+        "price": 431.66,
+        "size": 0.04639563,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:46:17.4330000Z",
+        "time_coinapi": "2016-01-01T02:46:17.5170000Z",
+        "uuid": "4307f5b7-61cc-46e7-be27-d271aee936a5",
+        "price": 430.59,
+        "size": 1,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:46:17.9030000Z",
+        "time_coinapi": "2016-01-01T02:46:17.9900000Z",
+        "uuid": "6bd479cc-7f3a-4b62-9adb-b7824df17b33",
+        "price": 430.59,
+        "size": 0.04639563,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:50:04.6070000Z",
+        "time_coinapi": "2016-01-01T02:50:04.7000000Z",
+        "uuid": "8f72ac3e-e5cb-4261-9630-9e708bcf0b14",
+        "price": 431.66,
+        "size": 0.04638434,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:50:48.3200000Z",
+        "time_coinapi": "2016-01-01T02:50:48.4070000Z",
+        "uuid": "d39fe7ec-e2a6-4726-8dc0-58f0a90e0cc4",
+        "price": 430.98,
+        "size": 0.80912286,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:51:05.9870000Z",
+        "time_coinapi": "2016-01-01T02:51:06.0770000Z",
+        "uuid": "2f97ebd0-da90-4c3c-b7c9-db34f6b1c7bf",
+        "price": 430.91,
+        "size": 0.09986777,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:51:22.1500000Z",
+        "time_coinapi": "2016-01-01T02:51:22.2400000Z",
+        "uuid": "cdee4e68-a9ce-4ce2-a80d-95a3c75a04f1",
+        "price": 430.47,
+        "size": 0.08731916,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:52:52.9500000Z",
+        "time_coinapi": "2016-01-01T02:52:53.0370000Z",
+        "uuid": "5e33d012-2ba4-430d-9e82-7bc58f7c1523",
+        "price": 430.47,
+        "size": 0.04378084,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T02:58:01.4530000Z",
+        "time_coinapi": "2016-01-01T02:58:01.5370000Z",
+        "uuid": "22aa0093-7c8d-41cb-9626-87a99e0fdf50",
+        "price": 430.57,
+        "size": 0.0159335,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:02:29.2400000Z",
+        "time_coinapi": "2016-01-01T03:02:29.3230000Z",
+        "uuid": "ffaf09a0-cadf-4679-8794-29053cc014fc",
+        "price": 430.5,
+        "size": 0.02695753,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:03:35.0730000Z",
+        "time_coinapi": "2016-01-01T03:03:35.1570000Z",
+        "uuid": "3a250c5e-f861-48d8-9aef-75f031ce603b",
+        "price": 430.5,
+        "size": 0.04194459,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:03:49.4730000Z",
+        "time_coinapi": "2016-01-01T03:03:49.5570000Z",
+        "uuid": "a23f3123-97f6-48fe-a585-fb51fe282b1d",
+        "price": 430.5,
+        "size": 0.0464792,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:04:41.3400000Z",
+        "time_coinapi": "2016-01-01T03:04:41.4230000Z",
+        "uuid": "fcbd8238-3a56-4d4a-b451-f3446373d75e",
+        "price": 430.14,
+        "size": 0.81068414,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:04:42.6200000Z",
+        "time_coinapi": "2016-01-01T03:04:42.7070000Z",
+        "uuid": "9f8ab65f-2185-434c-8328-edf063747be6",
+        "price": 430.03,
+        "size": 0.18931586,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:05:24.5130000Z",
+        "time_coinapi": "2016-01-01T03:05:24.6030000Z",
+        "uuid": "f6a194eb-112e-4ece-9552-0d271ec6735b",
+        "price": 430.49,
+        "size": 2,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:05:35.9430000Z",
+        "time_coinapi": "2016-01-01T03:05:36.0330000Z",
+        "uuid": "636b0a0c-a980-4614-95b9-f8d310727729",
+        "price": 430.48,
+        "size": 0.17842699,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:06:31.8730000Z",
+        "time_coinapi": "2016-01-01T03:06:31.9570000Z",
+        "uuid": "7ba79c12-3c2b-4415-97ba-b81429a2720a",
+        "price": 430.5,
+        "size": 0.88461868,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:06:52.4900000Z",
+        "time_coinapi": "2016-01-01T03:06:52.5800000Z",
+        "uuid": "6217428f-bee3-4d9a-8537-4b6a9e2151b2",
+        "price": 430.03,
+        "size": 0.0464792,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:08:36.7130000Z",
+        "time_coinapi": "2016-01-01T03:08:36.7970000Z",
+        "uuid": "751ae665-39b0-4460-a375-3b7928a16d10",
+        "price": 430.04,
+        "size": 0.0477212,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:12:03.9870000Z",
+        "time_coinapi": "2016-01-01T03:12:04.0700000Z",
+        "uuid": "26b9e156-4914-407d-896b-998a4818a4e5",
+        "price": 430.58,
+        "size": 0.5,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:14:14.4370000Z",
+        "time_coinapi": "2016-01-01T03:14:14.5270000Z",
+        "uuid": "bab200c5-9b00-4e5f-a031-d7b006664699",
+        "price": 430.31,
+        "size": 0.09986777,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:15:45.2070000Z",
+        "time_coinapi": "2016-01-01T03:15:45.2930000Z",
+        "uuid": "f61fb4e2-f54a-4266-8e11-11261bba399b",
+        "price": 430.63,
+        "size": 0.00776489,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:15:45.2670000Z",
+        "time_coinapi": "2016-01-01T03:15:45.3530000Z",
+        "uuid": "c28ecfa5-db05-464e-8a28-0c8699241e07",
+        "price": 431.42,
+        "size": 0.12876461,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:16:16.8370000Z",
+        "time_coinapi": "2016-01-01T03:16:16.9200000Z",
+        "uuid": "60d38886-d44e-4a30-878d-37ad51d89b7e",
+        "price": 430.87,
+        "size": 0.05,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:17:21.2070000Z",
+        "time_coinapi": "2016-01-01T03:17:21.2970000Z",
+        "uuid": "b1685b6f-ed8c-44a2-b3a4-78b5e2935acd",
+        "price": 430.57,
+        "size": 0.03063493,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:18:03.2770000Z",
+        "time_coinapi": "2016-01-01T03:18:03.3700000Z",
+        "uuid": "d52bb6f2-9392-4b0e-adb4-860f05feca01",
+        "price": 430.82,
+        "size": 0.01204198,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:18:03.3400000Z",
+        "time_coinapi": "2016-01-01T03:18:03.4330000Z",
+        "uuid": "91a6962f-bc1e-4a77-88e7-0402c15e2c57",
+        "price": 432,
+        "size": 0.10109277,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:18:03.4030000Z",
+        "time_coinapi": "2016-01-01T03:18:03.4970000Z",
+        "uuid": "4c60677b-6a7b-46a0-9d4b-93caed467bcf",
+        "price": 432.05,
+        "size": 0.04783616,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:18:48.8800000Z",
+        "time_coinapi": "2016-01-01T03:18:48.9730000Z",
+        "uuid": "bd9b860d-ef7b-4db8-af9c-f2d161fc29a5",
+        "price": 432.15,
+        "size": 0.02387052,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:23:50.0300000Z",
+        "time_coinapi": "2016-01-01T03:23:50.1230000Z",
+        "uuid": "d69e7c52-352e-4246-97e5-e52aa2deb065",
+        "price": 431.45,
+        "size": 0.05,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:25:32.7600000Z",
+        "time_coinapi": "2016-01-01T03:25:32.8600000Z",
+        "uuid": "9ab841b8-c2bc-4550-a8b8-608b8279a157",
+        "price": 431.45,
+        "size": 0.12610015,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:26:18.8700000Z",
+        "time_coinapi": "2016-01-01T03:26:18.9530000Z",
+        "uuid": "5e1b981f-86cb-401d-9883-ccb663937384",
+        "price": 432.35,
+        "size": 0.07963013,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:27:19.4800000Z",
+        "time_coinapi": "2016-01-01T03:27:19.5700000Z",
+        "uuid": "85ab6d86-1e85-4917-9daf-4552100d2058",
+        "price": 432.25,
+        "size": 0.7200463,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:28:20.7030000Z",
+        "time_coinapi": "2016-01-01T03:28:20.7870000Z",
+        "uuid": "a75a8168-3a7e-43ee-aa44-fbcd109f17cb",
+        "price": 432.18,
+        "size": 0.2,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:28:34.4470000Z",
+        "time_coinapi": "2016-01-01T03:28:34.5370000Z",
+        "uuid": "7c9d8119-5bbb-4fde-b6fc-9001ae3d61ae",
+        "price": 431.45,
+        "size": 0.37389985,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:28:51.6100000Z",
+        "time_coinapi": "2016-01-01T03:28:51.7000000Z",
+        "uuid": "16d37ed0-2fb4-454e-972b-7bbc0c26c5c6",
+        "price": 432.14,
+        "size": 0.02317174,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:29:22.7730000Z",
+        "time_coinapi": "2016-01-01T03:29:22.8570000Z",
+        "uuid": "94adb217-0c99-4117-925b-5ef4646801bc",
+        "price": 432.05,
+        "size": 1.97180383,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:30:42.9800000Z",
+        "time_coinapi": "2016-01-01T03:30:43.0730000Z",
+        "uuid": "a7ea78cf-d038-4f94-b3fc-cce3e10dab2b",
+        "price": 432.17,
+        "size": 0.56893205,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:30:43.9600000Z",
+        "time_coinapi": "2016-01-01T03:30:44.0500000Z",
+        "uuid": "8efcfd49-ec72-4f25-b841-4aa1cb1daab9",
+        "price": 432.05,
+        "size": 0.5,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:30:54.2470000Z",
+        "time_coinapi": "2016-01-01T03:30:54.3370000Z",
+        "uuid": "20d397ef-d73c-4ff5-b4bb-c09e96292c49",
+        "price": 432.2,
+        "size": 0.13094424,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:31:32.2900000Z",
+        "time_coinapi": "2016-01-01T03:31:32.3830000Z",
+        "uuid": "0951264d-cb72-4533-b54c-12e3f90e09be",
+        "price": 431.16,
+        "size": 0.4,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:33:08.3830000Z",
+        "time_coinapi": "2016-01-01T03:33:08.4730000Z",
+        "uuid": "275b361f-050d-4e47-8521-ff84c3384160",
+        "price": 431.16,
+        "size": 0.01915762,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:33:20.3130000Z",
+        "time_coinapi": "2016-01-01T03:33:20.4030000Z",
+        "uuid": "dcdc97b7-5854-401b-8338-bf3ae9edfabe",
+        "price": 431.16,
+        "size": 0.33689848,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:37:04.6600000Z",
+        "time_coinapi": "2016-01-01T03:37:04.7430000Z",
+        "uuid": "bab74b19-ae16-4b95-80e0-c7b76b5324fa",
+        "price": 431.17,
+        "size": 0.05812708,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:39:55.7530000Z",
+        "time_coinapi": "2016-01-01T03:39:55.8400000Z",
+        "uuid": "e524cdb8-b689-40a5-a69c-ba4f31d48a8f",
+        "price": 431.98,
+        "size": 1.52120079,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:40:08.7430000Z",
+        "time_coinapi": "2016-01-01T03:40:08.8270000Z",
+        "uuid": "59e9d057-fd02-4644-b565-617c7f559340",
+        "price": 431.98,
+        "size": 0.0187992,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:40:08.8030000Z",
+        "time_coinapi": "2016-01-01T03:40:08.8900000Z",
+        "uuid": "999a8bc1-8e56-496d-9f6a-57e06566d6fd",
+        "price": 431.09,
+        "size": 0.0339608,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:40:13.9330000Z",
+        "time_coinapi": "2016-01-01T03:40:14.0170000Z",
+        "uuid": "ee8f4186-3e48-45bf-8f86-462f58865dc0",
+        "price": 431.21,
+        "size": 0.09972498,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:40:43.1370000Z",
+        "time_coinapi": "2016-01-01T03:40:43.2270000Z",
+        "uuid": "e8f386ae-4176-4280-bec2-553b3ed881e4",
+        "price": 432.54,
+        "size": 0.62067448,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:42:51.3530000Z",
+        "time_coinapi": "2016-01-01T03:42:51.4400000Z",
+        "uuid": "eb78c141-b498-4f21-a081-bc58e3ddfbcc",
+        "price": 432.38,
+        "size": 1.38867693,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:43:07.0630000Z",
+        "time_coinapi": "2016-01-01T03:43:07.1500000Z",
+        "uuid": "a6fb39de-e739-4c38-bdc9-4bd35428f391",
+        "price": 432.31,
+        "size": 0.55850662,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:43:07.0670000Z",
+        "time_coinapi": "2016-01-01T03:43:07.1500000Z",
+        "uuid": "05399835-c855-4fc8-8eac-19094c76f10d",
+        "price": 432.33,
+        "size": 0.06435929,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:43:37.5900000Z",
+        "time_coinapi": "2016-01-01T03:43:37.6800000Z",
+        "uuid": "a3db8fe0-240c-42dd-ba9c-b2913498c4d3",
+        "price": 431.44,
+        "size": 1.98568997,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:44:08.6400000Z",
+        "time_coinapi": "2016-01-01T03:44:08.7330000Z",
+        "uuid": "16be7371-3123-4b03-9469-28e21ce6b754",
+        "price": 431.58,
+        "size": 0.62286591,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:44:38.6830000Z",
+        "time_coinapi": "2016-01-01T03:44:38.7730000Z",
+        "uuid": "c5816ba8-f920-4f24-870b-c45abce95708",
+        "price": 431.73,
+        "size": 0.0231654,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:44:54.2430000Z",
+        "time_coinapi": "2016-01-01T03:44:54.3370000Z",
+        "uuid": "7b6e1bdf-924d-40e7-84ed-dfbab223d00d",
+        "price": 431.8,
+        "size": 0.88660003,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:45:13.5270000Z",
+        "time_coinapi": "2016-01-01T03:45:13.6130000Z",
+        "uuid": "95498039-301f-4a4a-82f3-3fbcb0cba5ed",
+        "price": 432.45,
+        "size": 0.62346208,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:45:25.0330000Z",
+        "time_coinapi": "2016-01-01T03:45:25.1200000Z",
+        "uuid": "d3ce43ac-3334-44aa-a8bf-436bccbe588d",
+        "price": 432.4,
+        "size": 0.0371,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:45:29.2030000Z",
+        "time_coinapi": "2016-01-01T03:45:29.2900000Z",
+        "uuid": "13f533d4-4ba8-402e-bd22-9acffb3efe8b",
+        "price": 432.53,
+        "size": 1.82102241,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:46:11.4430000Z",
+        "time_coinapi": "2016-01-01T03:46:11.5300000Z",
+        "uuid": "4fbd952f-39cd-46cc-8956-7539b001bf5d",
+        "price": 432.5,
+        "size": 0.0371,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:46:11.5030000Z",
+        "time_coinapi": "2016-01-01T03:46:11.5870000Z",
+        "uuid": "a84f7055-56a4-44e5-8166-34c2fcc55df8",
+        "price": 432.56,
+        "size": 0.01250717,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:46:11.5700000Z",
+        "time_coinapi": "2016-01-01T03:46:11.6570000Z",
+        "uuid": "c0dd31d8-a781-4195-b6ed-2f5104480010",
+        "price": 432.57,
+        "size": 0.07864396,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:46:42.4700000Z",
+        "time_coinapi": "2016-01-01T03:46:42.5570000Z",
+        "uuid": "11fc3096-26d3-4ba0-9717-dadc883b53f3",
+        "price": 431.65,
+        "size": 1.98623654,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:46:48.9670000Z",
+        "time_coinapi": "2016-01-01T03:46:49.0570000Z",
+        "uuid": "4de1ebd4-fceb-4861-b7e8-24894f44eb5a",
+        "price": 431.67,
+        "size": 0.88682596,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:49:30.4330000Z",
+        "time_coinapi": "2016-01-01T03:49:30.5230000Z",
+        "uuid": "0ec0c41f-fd05-4a5e-99ff-82bcd4d07a81",
+        "price": 431.3,
+        "size": 0.0371,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:49:30.5130000Z",
+        "time_coinapi": "2016-01-01T03:49:30.6030000Z",
+        "uuid": "94785343-3acc-479d-8e1d-6074004071df",
+        "price": 431.07,
+        "size": 0.58636208,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:49:45.5100000Z",
+        "time_coinapi": "2016-01-01T03:49:45.6000000Z",
+        "uuid": "9e7f5e51-a024-4112-ab1d-70cb5f8ee89e",
+        "price": 431.11,
+        "size": 0.57412745,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:50:16.7430000Z",
+        "time_coinapi": "2016-01-01T03:50:16.8370000Z",
+        "uuid": "6c456d65-b2cf-4a29-91c5-f1b624e51dec",
+        "price": 432.56,
+        "size": 0.0231175,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:50:17.1700000Z",
+        "time_coinapi": "2016-01-01T03:50:17.2630000Z",
+        "uuid": "0bd72063-fd92-4504-a863-feeb72681bd4",
+        "price": 432.56,
+        "size": 0.72230712,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:50:17.8030000Z",
+        "time_coinapi": "2016-01-01T03:50:17.8930000Z",
+        "uuid": "1b259b8e-6846-4c1e-82d5-61da413f24e9",
+        "price": 432.56,
+        "size": 0.62352968,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:50:19.0570000Z",
+        "time_coinapi": "2016-01-01T03:50:19.1500000Z",
+        "uuid": "64ebd569-7861-4198-b935-f2fba6da34ca",
+        "price": 432.53,
+        "size": 0.02314211,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:50:19.4970000Z",
+        "time_coinapi": "2016-01-01T03:50:19.5900000Z",
+        "uuid": "0c007502-de12-4447-a13f-a3214c5816e3",
+        "price": 432.53,
+        "size": 0.04524228,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:50:57.0970000Z",
+        "time_coinapi": "2016-01-01T03:50:57.1900000Z",
+        "uuid": "1abcb5ef-d22f-41a9-8713-75dda98de728",
+        "price": 432.53,
+        "size": 0.012,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:51:19.7530000Z",
+        "time_coinapi": "2016-01-01T03:51:19.8470000Z",
+        "uuid": "dac9a1d3-a114-4a82-9c9f-1796fb456ba5",
+        "price": 431.43,
+        "size": 0.012,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:51:39.5330000Z",
+        "time_coinapi": "2016-01-01T03:51:39.6270000Z",
+        "uuid": "77707208-e25f-4a8b-92e5-018decb60922",
+        "price": 432.3,
+        "size": 0.012,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:51:56.3270000Z",
+        "time_coinapi": "2016-01-01T03:51:56.4170000Z",
+        "uuid": "9f5a6a2b-ddda-45a8-98f0-681f1b5412b7",
+        "price": 432.56,
+        "size": 0.13376215,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:51:56.3800000Z",
+        "time_coinapi": "2016-01-01T03:51:56.4730000Z",
+        "uuid": "6b21e982-1d22-4ff3-aacf-7e5032d01a3f",
+        "price": 432.58,
+        "size": 0.58586968,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:55:17.5970000Z",
+        "time_coinapi": "2016-01-01T03:55:17.6800000Z",
+        "uuid": "57638540-2bd4-4825-8517-1ef292225551",
+        "price": 431.53,
+        "size": 0.14081373,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:55:22.4500000Z",
+        "time_coinapi": "2016-01-01T03:55:22.5330000Z",
+        "uuid": "93c438cd-baba-439c-9db6-523cdc242508",
+        "price": 431.63,
+        "size": 0.14591602,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:55:49.5030000Z",
+        "time_coinapi": "2016-01-01T03:55:49.5900000Z",
+        "uuid": "164c94c6-39cb-4aad-b374-282409c74049",
+        "price": 432.45,
+        "size": 0.50187009,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:55:49.9900000Z",
+        "time_coinapi": "2016-01-01T03:55:50.0800000Z",
+        "uuid": "b88e4370-b475-4951-b32f-dbe2ae8c7aa7",
+        "price": 432.09,
+        "size": 0.02314344,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:56:05.4400000Z",
+        "time_coinapi": "2016-01-01T03:56:05.5330000Z",
+        "uuid": "beb5265a-15d4-4d0a-82ce-024c49475fee",
+        "price": 432.4,
+        "size": 0.62624273,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:57:12.9470000Z",
+        "time_coinapi": "2016-01-01T03:57:13.0430000Z",
+        "uuid": "f74376fb-5c1a-4979-9181-73b3971312d3",
+        "price": 432.58,
+        "size": 6.52314538,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:57:18.0530000Z",
+        "time_coinapi": "2016-01-01T03:57:18.1500000Z",
+        "uuid": "1ef29a28-4abb-4786-bfd0-bd5c77df91d3",
+        "price": 432.6,
+        "size": 17.80005534,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:58:07.0200000Z",
+        "time_coinapi": "2016-01-01T03:58:07.1100000Z",
+        "uuid": "3a310ec1-a2a7-4b93-aca0-a4635b68eaf4",
+        "price": 432.65,
+        "size": 0.5719,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:58:07.0400000Z",
+        "time_coinapi": "2016-01-01T03:58:07.1300000Z",
+        "uuid": "1d7e1f86-26b1-4976-a621-a7071d5832e5",
+        "price": 432.55,
+        "size": 0.14960871,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:58:56.4730000Z",
+        "time_coinapi": "2016-01-01T03:58:56.5630000Z",
+        "uuid": "0bdde6f7-b920-497d-a0e6-7af33982c6e4",
+        "price": 433.17,
+        "size": 0.50767013,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:58:56.5430000Z",
+        "time_coinapi": "2016-01-01T03:58:56.6330000Z",
+        "uuid": "d7d64e77-edfa-4f4a-998d-845bcb91b686",
+        "price": 433.17,
+        "size": 0.8,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:58:58.5670000Z",
+        "time_coinapi": "2016-01-01T03:58:58.6600000Z",
+        "uuid": "d6854bc1-8717-4563-a3da-9c68ed5848c3",
+        "price": 433.33,
+        "size": 11,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:58:58.8730000Z",
+        "time_coinapi": "2016-01-01T03:58:58.9630000Z",
+        "uuid": "cd7917d4-a293-44c5-8b63-a87717170fbf",
+        "price": 433.35,
+        "size": 8.41209184,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:59:23.2230000Z",
+        "time_coinapi": "2016-01-01T03:59:23.3070000Z",
+        "uuid": "92d805fd-a371-4c07-8265-8f1bfe7c0b95",
+        "price": 432.3,
+        "size": 0.12542589,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T03:59:54.0270000Z",
+        "time_coinapi": "2016-01-01T03:59:54.1100000Z",
+        "uuid": "a6bed9b7-f5aa-4504-bbe0-cd14a6dfc5fd",
+        "price": 433.37,
+        "size": 0.12547524,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:02:23.7370000Z",
+        "time_coinapi": "2016-01-01T04:02:23.8230000Z",
+        "uuid": "732f2e09-da05-410e-afa9-1990b2c8c846",
+        "price": 433.34,
+        "size": 0.82,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:02:27.3070000Z",
+        "time_coinapi": "2016-01-01T04:02:27.3900000Z",
+        "uuid": "f2755594-b2f9-49bb-860b-7a3de66d4440",
+        "price": 433.34,
+        "size": 0.23186569,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:04:13.2200000Z",
+        "time_coinapi": "2016-01-01T04:04:13.3170000Z",
+        "uuid": "ef3e654e-19ef-4e75-8450-5fa4f10777dd",
+        "price": 433.4,
+        "size": 0.02309362,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:04:13.6030000Z",
+        "time_coinapi": "2016-01-01T04:04:13.6970000Z",
+        "uuid": "5c4ec24a-b1bf-4472-84e6-becade215b04",
+        "price": 432.65,
+        "size": 0.02311725,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:05:26.5800000Z",
+        "time_coinapi": "2016-01-01T04:05:26.6770000Z",
+        "uuid": "1f25c1f4-4422-4961-900f-1192483abe6c",
+        "price": 432.88,
+        "size": 1.20466679,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:07:15.0800000Z",
+        "time_coinapi": "2016-01-01T04:07:15.1770000Z",
+        "uuid": "a554fd85-27a6-4534-bf75-25a622637472",
+        "price": 432.9,
+        "size": 0.27666526,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:07:15.1500000Z",
+        "time_coinapi": "2016-01-01T04:07:15.2470000Z",
+        "uuid": "33ad5a66-b4c5-40f5-b8c9-34de57bf13df",
+        "price": 432.9,
+        "size": 0.29259789,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:07:15.2330000Z",
+        "time_coinapi": "2016-01-01T04:07:15.3270000Z",
+        "uuid": "657a9746-600e-48d8-bb78-8831990e251b",
+        "price": 432.7,
+        "size": 1.4249,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:07:15.3130000Z",
+        "time_coinapi": "2016-01-01T04:07:15.4100000Z",
+        "uuid": "ee50c025-ed5d-4762-8577-013b2271809e",
+        "price": 432.58,
+        "size": 0.27570646,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:07:15.3900000Z",
+        "time_coinapi": "2016-01-01T04:07:15.4870000Z",
+        "uuid": "df997c75-4501-439a-9077-bc4506f833ec",
+        "price": 432.56,
+        "size": 5.44375457,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:07:34.4730000Z",
+        "time_coinapi": "2016-01-01T04:07:34.5700000Z",
+        "uuid": "469d9397-26f0-4876-9702-14ad973c46c3",
+        "price": 433.11,
+        "size": 0.01588396,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:08:15.8270000Z",
+        "time_coinapi": "2016-01-01T04:08:15.9170000Z",
+        "uuid": "694e90fd-ba1e-4fd8-b1e7-67d76163ab73",
+        "price": 432.9,
+        "size": 0.6403227,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:08:15.8830000Z",
+        "time_coinapi": "2016-01-01T04:08:15.9770000Z",
+        "uuid": "15793a9f-7586-4f6b-ad98-6eeab183df80",
+        "price": 432.85,
+        "size": 0.3596773,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:08:16.1330000Z",
+        "time_coinapi": "2016-01-01T04:08:16.2270000Z",
+        "uuid": "f5a29b01-16d7-4ac0-8813-e1644850d2c8",
+        "price": 432.85,
+        "size": 1.0652227,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:08:16.1900000Z",
+        "time_coinapi": "2016-01-01T04:08:16.2800000Z",
+        "uuid": "0564f4c8-5cb0-4b6f-8436-47b595fd9c67",
+        "price": 432.81,
+        "size": 0.9347773,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:08:31.7130000Z",
+        "time_coinapi": "2016-01-01T04:08:31.8030000Z",
+        "uuid": "ccd3b300-7383-4e56-884e-606626eafdc9",
+        "price": 432.9,
+        "size": 1.4249,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:08:31.7730000Z",
+        "time_coinapi": "2016-01-01T04:08:31.8600000Z",
+        "uuid": "5d0ffd62-743e-48ca-8b4f-1ae8e1488400",
+        "price": 432.81,
+        "size": 1.5751,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:09:02.3270000Z",
+        "time_coinapi": "2016-01-01T04:09:02.4130000Z",
+        "uuid": "609d6127-e0f5-4245-8c0b-64a9067e6f7b",
+        "price": 432.8,
+        "size": 1,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:09:17.8470000Z",
+        "time_coinapi": "2016-01-01T04:09:17.9330000Z",
+        "uuid": "a464bbcf-4f9f-4aa1-bc7d-5e2929ecd1e8",
+        "price": 433.1,
+        "size": 0.10083831,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:09:17.9000000Z",
+        "time_coinapi": "2016-01-01T04:09:17.9870000Z",
+        "uuid": "09125d5f-7cbd-45bd-a29c-d869d11c34b3",
+        "price": 433.06,
+        "size": 0.89916169,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:09:18.1530000Z",
+        "time_coinapi": "2016-01-01T04:09:18.2400000Z",
+        "uuid": "4e802e1d-117f-4668-8791-096e986f7cf6",
+        "price": 433.06,
+        "size": 2,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:09:33.7970000Z",
+        "time_coinapi": "2016-01-01T04:09:33.8900000Z",
+        "uuid": "bbc10031-e49d-4161-bae8-7f06ef908501",
+        "price": 432.95,
+        "size": 0.9751,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:09:33.8530000Z",
+        "time_coinapi": "2016-01-01T04:09:33.9430000Z",
+        "uuid": "70341b29-dfed-4ea2-a345-580ea647eb52",
+        "price": 432.91,
+        "size": 0.0249,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:09:34.0930000Z",
+        "time_coinapi": "2016-01-01T04:09:34.1870000Z",
+        "uuid": "0202083a-5d79-41d4-aff6-61327c182e5d",
+        "price": 432.91,
+        "size": 1,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:09:49.6400000Z",
+        "time_coinapi": "2016-01-01T04:09:49.7370000Z",
+        "uuid": "dfd1ad44-78ad-4970-9742-743c53459c99",
+        "price": 432.95,
+        "size": 0.2751,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:09:49.7030000Z",
+        "time_coinapi": "2016-01-01T04:09:49.7970000Z",
+        "uuid": "b308addb-695f-40a5-b3f0-d1235b27874d",
+        "price": 432.85,
+        "size": 0.2751,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:09:49.7570000Z",
+        "time_coinapi": "2016-01-01T04:09:49.8500000Z",
+        "uuid": "6b528422-e767-4453-97be-aa22a03595fe",
+        "price": 432.75,
+        "size": 0.9751,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:09:49.8200000Z",
+        "time_coinapi": "2016-01-01T04:09:49.9130000Z",
+        "uuid": "dbc8047b-cf5b-4b63-84f4-a278ebec8559",
+        "price": 432.7,
+        "size": 0.4747,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:09:50.1170000Z",
+        "time_coinapi": "2016-01-01T04:09:50.2100000Z",
+        "uuid": "0e50bc2a-7b12-4c61-b45a-00e84ef0357d",
+        "price": 432.7,
+        "size": 1.2253,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:09:50.1730000Z",
+        "time_coinapi": "2016-01-01T04:09:50.2670000Z",
+        "uuid": "6831187c-8472-453e-9f2c-2f71de87267a",
+        "price": 432.55,
+        "size": 0.7747,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:10:20.6370000Z",
+        "time_coinapi": "2016-01-01T04:10:20.7300000Z",
+        "uuid": "df00e9c6-ba64-459b-8972-b82f86f09e44",
+        "price": 432.9,
+        "size": 1.5,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:10:21.0400000Z",
+        "time_coinapi": "2016-01-01T04:10:21.1330000Z",
+        "uuid": "6599ad65-cea2-46f3-9238-bda730ecd5b7",
+        "price": 432.9,
+        "size": 0.2,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:10:21.0970000Z",
+        "time_coinapi": "2016-01-01T04:10:21.1870000Z",
+        "uuid": "12cfae2a-e33b-4b74-b148-9c0261cf7cf0",
+        "price": 432.59,
+        "size": 2.3,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:11:21.7030000Z",
+        "time_coinapi": "2016-01-01T04:11:21.7870000Z",
+        "uuid": "87674f0f-78c3-40a0-80c1-c15288334d66",
+        "price": 432.72,
+        "size": 7.25239656,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:11:55.4370000Z",
+        "time_coinapi": "2016-01-01T04:11:55.5300000Z",
+        "uuid": "79de157c-40a4-4b28-a876-6bdaa4d5007a",
+        "price": 433.11,
+        "size": 0.00911604,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:11:55.4930000Z",
+        "time_coinapi": "2016-01-01T04:11:55.5830000Z",
+        "uuid": "6a975c84-e2c3-4858-ab10-b077da6b43e6",
+        "price": 433.4,
+        "size": 1.23449638,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:12:00.5870000Z",
+        "time_coinapi": "2016-01-01T04:12:00.6800000Z",
+        "uuid": "981f8c49-389b-4ac1-9b66-f3a80b69ee74",
+        "price": 433.69,
+        "size": 0.13828808,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:12:00.6500000Z",
+        "time_coinapi": "2016-01-01T04:12:00.7400000Z",
+        "uuid": "05a3e2ce-361b-49af-af99-010d331a03e8",
+        "price": 433.8,
+        "size": 0.01844129,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:12:00.7270000Z",
+        "time_coinapi": "2016-01-01T04:12:00.8170000Z",
+        "uuid": "9d11cbfd-9a1e-4069-b25b-c1d075889986",
+        "price": 433.87,
+        "size": 1.49814461,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:12:00.7830000Z",
+        "time_coinapi": "2016-01-01T04:12:00.8730000Z",
+        "uuid": "062122ac-cd07-445b-8eca-6f8a27dac344",
+        "price": 433.89,
+        "size": 2.53040339,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:12:23.0870000Z",
+        "time_coinapi": "2016-01-01T04:12:23.1830000Z",
+        "uuid": "cc4e35a3-b7d9-4e81-9982-7096587758d8",
+        "price": 432.86,
+        "size": 1,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:12:23.3370000Z",
+        "time_coinapi": "2016-01-01T04:12:23.4330000Z",
+        "uuid": "44b871e7-f2bd-4574-ba86-6f1f8f15b655",
+        "price": 432.86,
+        "size": 0.4970691,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:12:23.3930000Z",
+        "time_coinapi": "2016-01-01T04:12:23.4900000Z",
+        "uuid": "a6855d92-250b-4959-8031-c64228b131d5",
+        "price": 432.85,
+        "size": 1.5029309,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:12:23.8300000Z",
+        "time_coinapi": "2016-01-01T04:12:23.9270000Z",
+        "uuid": "a5f421de-1768-4a95-83e2-e9aca9d39428",
+        "price": 432.86,
+        "size": 3,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:12:24.0830000Z",
+        "time_coinapi": "2016-01-01T04:12:24.1800000Z",
+        "uuid": "c2f51ecb-90a7-4261-8179-d3e4eaed98d5",
+        "price": 433.89,
+        "size": 4.97,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:12:39.4330000Z",
+        "time_coinapi": "2016-01-01T04:12:39.5270000Z",
+        "uuid": "ae6d8a2a-a0e7-4bc5-bfc3-e4cb29ec3c71",
+        "price": 432.66,
+        "size": 4,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:12:39.9800000Z",
+        "time_coinapi": "2016-01-01T04:12:40.0730000Z",
+        "uuid": "cf904384-e5de-41a3-831f-4a14331640ab",
+        "price": 432.66,
+        "size": 2,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:12:55.6100000Z",
+        "time_coinapi": "2016-01-01T04:12:55.7030000Z",
+        "uuid": "3ae3d24d-1e78-4293-99cc-40abf94f5341",
+        "price": 433.64,
+        "size": 0.33760777,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:12:56.3630000Z",
+        "time_coinapi": "2016-01-01T04:12:56.4570000Z",
+        "uuid": "18db86ee-0cbf-4fcb-89ed-5cd6adf037aa",
+        "price": 432.57,
+        "size": 1,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:13:03.8700000Z",
+        "time_coinapi": "2016-01-01T04:13:03.9600000Z",
+        "uuid": "29d7625f-af7b-46bf-a07c-33a5f0870816",
+        "price": 433.62,
+        "size": 0.081,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:13:11.7070000Z",
+        "time_coinapi": "2016-01-01T04:13:11.7970000Z",
+        "uuid": "c7b82957-5be7-49b6-8b17-7fc4bb08e415",
+        "price": 433.62,
+        "size": 0.081,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:13:11.7630000Z",
+        "time_coinapi": "2016-01-01T04:13:11.8530000Z",
+        "uuid": "54389aa3-7cc9-4b51-848b-f804d14103c3",
+        "price": 432.77,
+        "size": 0.919,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:13:24.7970000Z",
+        "time_coinapi": "2016-01-01T04:13:24.8870000Z",
+        "uuid": "260c5500-7e67-4bfd-8568-eb2fb45e904d",
+        "price": 433.87,
+        "size": 1,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:13:28.0730000Z",
+        "time_coinapi": "2016-01-01T04:13:28.1630000Z",
+        "uuid": "2df049b4-dae2-4193-bd86-94c7cb1da7c7",
+        "price": 433.62,
+        "size": 0.225,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:13:28.1430000Z",
+        "time_coinapi": "2016-01-01T04:13:28.2330000Z",
+        "uuid": "aa94fba6-8b0a-4d8c-9828-b4db35c030d8",
+        "price": 433.62,
+        "size": 0.242,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:13:28.2030000Z",
+        "time_coinapi": "2016-01-01T04:13:28.2930000Z",
+        "uuid": "066257a4-77aa-4af5-aa2c-2661da164ccf",
+        "price": 433.62,
+        "size": 0.245,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:13:28.2770000Z",
+        "time_coinapi": "2016-01-01T04:13:28.3670000Z",
+        "uuid": "57baef65-0682-4ea9-9973-9234ee37f39d",
+        "price": 433.62,
+        "size": 0.224,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:13:28.3430000Z",
+        "time_coinapi": "2016-01-01T04:13:28.4330000Z",
+        "uuid": "68c9deb7-f5b7-4d77-9b4d-ee20a17f8767",
+        "price": 433.62,
+        "size": 0.064,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:13:29.3670000Z",
+        "time_coinapi": "2016-01-01T04:13:29.4570000Z",
+        "uuid": "d752beca-07f0-4c7e-8b39-5b16ff8026f1",
+        "price": 433.63,
+        "size": 1.5,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:13:37.1200000Z",
+        "time_coinapi": "2016-01-01T04:13:37.2130000Z",
+        "uuid": "cd9a9e7f-bf40-4845-9966-b472238265aa",
+        "price": 433.87,
+        "size": 0.41714461,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:13:37.1830000Z",
+        "time_coinapi": "2016-01-01T04:13:37.2730000Z",
+        "uuid": "09202ce0-8489-4d06-a395-f54fe6654da5",
+        "price": 433.89,
+        "size": 0.58285539,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:13:43.8200000Z",
+        "time_coinapi": "2016-01-01T04:13:43.9100000Z",
+        "uuid": "5231d3ef-1142-475a-b02f-da4d50c9225f",
+        "price": 433.64,
+        "size": 3,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:13:44.8030000Z",
+        "time_coinapi": "2016-01-01T04:13:44.8930000Z",
+        "uuid": "edfc3d88-4e48-4853-afdb-dfd9203ee524",
+        "price": 433.65,
+        "size": 0.12531179,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:13:45.3830000Z",
+        "time_coinapi": "2016-01-01T04:13:45.4730000Z",
+        "uuid": "bc268341-02c0-4060-bc06-038e4d1ae360",
+        "price": 433.65,
+        "size": 2.5,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:13:46.0700000Z",
+        "time_coinapi": "2016-01-01T04:13:46.1600000Z",
+        "uuid": "90e8aa85-8f54-4751-9fe0-9fb461d2c097",
+        "price": 433.65,
+        "size": 3,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:13:51.0270000Z",
+        "time_coinapi": "2016-01-01T04:13:51.1170000Z",
+        "uuid": "b86e8588-9819-4e30-8b34-f9e1eaaed564",
+        "price": 433.89,
+        "size": 29.278,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:13:57.4270000Z",
+        "time_coinapi": "2016-01-01T04:13:57.5130000Z",
+        "uuid": "94b8d800-1102-4487-afbd-2659e372ca4e",
+        "price": 433.89,
+        "size": 9.27873939,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:02.5200000Z",
+        "time_coinapi": "2016-01-01T04:14:02.6030000Z",
+        "uuid": "b79724e8-d9aa-4ad0-a23e-d349305c8fd8",
+        "price": 433.75,
+        "size": 5,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:03.5770000Z",
+        "time_coinapi": "2016-01-01T04:14:03.6600000Z",
+        "uuid": "91e1fc2c-e54e-4bec-8730-9e0ac848d8c4",
+        "price": 433.75,
+        "size": 2.5,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:04.5470000Z",
+        "time_coinapi": "2016-01-01T04:14:04.6300000Z",
+        "uuid": "53fa5d19-97f7-448d-bb8b-3e3b3cd62a41",
+        "price": 433.75,
+        "size": 2.5,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:05.2370000Z",
+        "time_coinapi": "2016-01-01T04:14:05.3230000Z",
+        "uuid": "4bd08647-40ad-49b7-a44b-6e2b8fb41b26",
+        "price": 433.86,
+        "size": 0.5,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:05.2970000Z",
+        "time_coinapi": "2016-01-01T04:14:05.3830000Z",
+        "uuid": "79d0e287-dbbb-4314-9d9a-5d2b238c8b11",
+        "price": 433.93,
+        "size": 0.099,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:05.3600000Z",
+        "time_coinapi": "2016-01-01T04:14:05.4430000Z",
+        "uuid": "5e1c6ee9-3405-4c01-beaa-36d7f1c53a75",
+        "price": 433.96,
+        "size": 0.7761,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:05.4700000Z",
+        "time_coinapi": "2016-01-01T04:14:05.5530000Z",
+        "uuid": "d9636d71-9c40-4e9d-8769-b7b0fb72e985",
+        "price": 433.96,
+        "size": 0.33112278,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:05.5300000Z",
+        "time_coinapi": "2016-01-01T04:14:05.6130000Z",
+        "uuid": "a9195a9d-38a8-40be-bbd3-049b56dbc815",
+        "price": 433.97,
+        "size": 0.45471672,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:05.5900000Z",
+        "time_coinapi": "2016-01-01T04:14:05.6730000Z",
+        "uuid": "551534a0-7e76-4639-a5b3-cb5e234bf86d",
+        "price": 433.98,
+        "size": 0.034,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:05.6530000Z",
+        "time_coinapi": "2016-01-01T04:14:05.7400000Z",
+        "uuid": "0049990c-b52c-4fce-b997-09f12b934714",
+        "price": 433.98,
+        "size": 0.013,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:05.7100000Z",
+        "time_coinapi": "2016-01-01T04:14:05.7930000Z",
+        "uuid": "dce3846f-ad46-40cc-bb90-ba5e086bf278",
+        "price": 433.98,
+        "size": 8.05,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:05.7730000Z",
+        "time_coinapi": "2016-01-01T04:14:05.8570000Z",
+        "uuid": "97334626-5e38-4850-95da-75814b07af7a",
+        "price": 433.99,
+        "size": 15,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:05.8270000Z",
+        "time_coinapi": "2016-01-01T04:14:05.9130000Z",
+        "uuid": "a347cc4b-42e1-468b-9f5c-7ec544ec95d8",
+        "price": 433.99,
+        "size": 5.5761605,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:08.3800000Z",
+        "time_coinapi": "2016-01-01T04:14:08.4630000Z",
+        "uuid": "13c02054-a512-432b-bc6c-49a25b8af8d9",
+        "price": 433.99,
+        "size": 14.790369,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:09.4470000Z",
+        "time_coinapi": "2016-01-01T04:14:09.5300000Z",
+        "uuid": "b807dbc9-ec7a-4466-83d4-a9f08dc2da7b",
+        "price": 433.99,
+        "size": 1.3751,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:13.0730000Z",
+        "time_coinapi": "2016-01-01T04:14:13.1570000Z",
+        "uuid": "3d01e397-9ebc-478c-9b6d-94a5a5e39a25",
+        "price": 433.99,
+        "size": 28.2583705,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:13.1400000Z",
+        "time_coinapi": "2016-01-01T04:14:13.2230000Z",
+        "uuid": "802346cb-649a-4d97-a807-354a2c79b722",
+        "price": 434,
+        "size": 0.05,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:13.2070000Z",
+        "time_coinapi": "2016-01-01T04:14:13.2900000Z",
+        "uuid": "bb9d3709-b003-450e-a718-d43d4ec3ae12",
+        "price": 434,
+        "size": 0.155,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:13.2700000Z",
+        "time_coinapi": "2016-01-01T04:14:13.3530000Z",
+        "uuid": "cdc90607-37b7-4bb4-b9ee-95da6fdaf073",
+        "price": 434,
+        "size": 2.34686147,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:13.3330000Z",
+        "time_coinapi": "2016-01-01T04:14:13.4170000Z",
+        "uuid": "fe156e5f-9529-4dcf-82cd-a70583a73a04",
+        "price": 434,
+        "size": 0.07992612,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:13.4030000Z",
+        "time_coinapi": "2016-01-01T04:14:13.4870000Z",
+        "uuid": "80284a66-df9c-44fa-93e3-3ae0514fd114",
+        "price": 434,
+        "size": 0.07007388,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:13.4670000Z",
+        "time_coinapi": "2016-01-01T04:14:13.5500000Z",
+        "uuid": "ac827b2d-8ac3-4b95-9c2c-86ad75bcb6be",
+        "price": 434,
+        "size": 0.07,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:13.5300000Z",
+        "time_coinapi": "2016-01-01T04:14:13.6130000Z",
+        "uuid": "caf381de-6f7d-416a-abef-e64f582ea498",
+        "price": 434,
+        "size": 8.96976803,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:15.0400000Z",
+        "time_coinapi": "2016-01-01T04:14:15.1230000Z",
+        "uuid": "d5a5f8ee-6e7e-4077-9cee-ab7cca793578",
+        "price": 434,
+        "size": 1.7,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:18.1930000Z",
+        "time_coinapi": "2016-01-01T04:14:18.2770000Z",
+        "uuid": "bf9ecb76-dd96-4676-99dc-d27de2181e60",
+        "price": 434,
+        "size": 1.7,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:18.5100000Z",
+        "time_coinapi": "2016-01-01T04:14:18.5930000Z",
+        "uuid": "a2c8f28b-a67e-4c33-9e9c-6e041e280bb6",
+        "price": 433.99,
+        "size": 3,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:18.8700000Z",
+        "time_coinapi": "2016-01-01T04:14:18.9570000Z",
+        "uuid": "0a1cf837-eb01-4b5f-b0b7-f85fc10f5d16",
+        "price": 434,
+        "size": 32.565,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:23.2500000Z",
+        "time_coinapi": "2016-01-01T04:14:23.3370000Z",
+        "uuid": "f24a6684-68a1-4e7d-82b5-5e5de9cc310c",
+        "price": 434,
+        "size": 0.3249,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:25.6400000Z",
+        "time_coinapi": "2016-01-01T04:14:25.7230000Z",
+        "uuid": "cb972ae1-7e17-4a3e-b922-b5f19f26e961",
+        "price": 434,
+        "size": 1.7,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:28.1870000Z",
+        "time_coinapi": "2016-01-01T04:14:28.2700000Z",
+        "uuid": "4ea466e4-4749-4b91-9313-75ca332ede26",
+        "price": 434,
+        "size": 1.7,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:33.0370000Z",
+        "time_coinapi": "2016-01-01T04:14:33.1200000Z",
+        "uuid": "45943e71-1ca7-4b53-b8cf-2db9636b1275",
+        "price": 434,
+        "size": 2.30436074,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:33.0970000Z",
+        "time_coinapi": "2016-01-01T04:14:33.1800000Z",
+        "uuid": "485ed318-730f-4612-8f27-343889197df5",
+        "price": 434,
+        "size": 1.7,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:33.5630000Z",
+        "time_coinapi": "2016-01-01T04:14:33.6470000Z",
+        "uuid": "7939fe1e-64c4-4c82-b0c4-ada604cf39c7",
+        "price": 433.99,
+        "size": 0.205,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:33.6170000Z",
+        "time_coinapi": "2016-01-01T04:14:33.7000000Z",
+        "uuid": "faee0c68-9d7e-4b43-a065-f3355535b130",
+        "price": 433.99,
+        "size": 0.208,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:33.6770000Z",
+        "time_coinapi": "2016-01-01T04:14:33.7600000Z",
+        "uuid": "deb33374-dea5-43f2-99a7-c1d168f0624d",
+        "price": 433.99,
+        "size": 0.226,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:33.7370000Z",
+        "time_coinapi": "2016-01-01T04:14:33.8200000Z",
+        "uuid": "50b2f028-8197-4892-a289-f15d985cd524",
+        "price": 433.99,
+        "size": 0.226,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:33.7970000Z",
+        "time_coinapi": "2016-01-01T04:14:33.8800000Z",
+        "uuid": "ad297983-8ee6-4166-a24f-f43b10881bc5",
+        "price": 433.99,
+        "size": 0.135,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:48.6070000Z",
+        "time_coinapi": "2016-01-01T04:14:48.6900000Z",
+        "uuid": "398038c9-eaa3-409d-a1a6-e02969b68947",
+        "price": 433.99,
+        "size": 0.02306488,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:48.8630000Z",
+        "time_coinapi": "2016-01-01T04:14:48.9470000Z",
+        "uuid": "402f3807-1982-47b9-bd2a-e427e635c55e",
+        "price": 433.99,
+        "size": 0.08993512,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:48.9400000Z",
+        "time_coinapi": "2016-01-01T04:14:49.0230000Z",
+        "uuid": "f554b580-3cf7-4a32-8066-17deac8699ce",
+        "price": 433.99,
+        "size": 0.222,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:48.9970000Z",
+        "time_coinapi": "2016-01-01T04:14:49.0800000Z",
+        "uuid": "ec9a64b4-b4e7-42a5-bed1-d717a5e608e3",
+        "price": 433.99,
+        "size": 0.18806488,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:55.0230000Z",
+        "time_coinapi": "2016-01-01T04:14:55.1070000Z",
+        "uuid": "3d9934e8-f270-4879-a12d-65ce1581cc90",
+        "price": 434,
+        "size": 1.64,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:14:59.4430000Z",
+        "time_coinapi": "2016-01-01T04:14:59.5270000Z",
+        "uuid": "d481ea46-1f46-4608-8682-89cf00d4eef0",
+        "price": 434,
+        "size": 3,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:04.5830000Z",
+        "time_coinapi": "2016-01-01T04:15:04.6670000Z",
+        "uuid": "cdf99bc0-8156-4d23-ab34-eef88984e23b",
+        "price": 434,
+        "size": 1.9674953,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:04.6400000Z",
+        "time_coinapi": "2016-01-01T04:15:04.7230000Z",
+        "uuid": "07a2d1e8-add4-45f6-8b4e-d7d044c0d7bc",
+        "price": 434,
+        "size": 40,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:05.2500000Z",
+        "time_coinapi": "2016-01-01T04:15:05.3330000Z",
+        "uuid": "aa8db657-7433-42b4-8f5f-486ee1588510",
+        "price": 434,
+        "size": 0.02303524,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:05.7000000Z",
+        "time_coinapi": "2016-01-01T04:15:05.7830000Z",
+        "uuid": "3def9d66-d1f8-49ad-bd79-219c53030c96",
+        "price": 434,
+        "size": 0.3249,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:05.9830000Z",
+        "time_coinapi": "2016-01-01T04:15:06.0700000Z",
+        "uuid": "942d28c7-416c-4d2d-bfda-a812b68c8da9",
+        "price": 433.99,
+        "size": 0.05293512,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:06.0470000Z",
+        "time_coinapi": "2016-01-01T04:15:06.1300000Z",
+        "uuid": "fe46020b-d6db-47bb-bd15-0017a0b93303",
+        "price": 433.99,
+        "size": 0.25,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:06.1000000Z",
+        "time_coinapi": "2016-01-01T04:15:06.1830000Z",
+        "uuid": "1d259eec-4daa-4474-9bd7-b4f91b44e818",
+        "price": 433.99,
+        "size": 0.25,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:06.1530000Z",
+        "time_coinapi": "2016-01-01T04:15:06.2400000Z",
+        "uuid": "a60d7b01-0524-42ad-abd0-825e927e55ca",
+        "price": 433.99,
+        "size": 0.249,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:06.2500000Z",
+        "time_coinapi": "2016-01-01T04:15:06.3330000Z",
+        "uuid": "1093e5ae-da47-4fd2-a394-b3d300809472",
+        "price": 433.99,
+        "size": 0.231,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:06.2730000Z",
+        "time_coinapi": "2016-01-01T04:15:06.3600000Z",
+        "uuid": "b86b71ae-b51b-4a23-b933-a57da1cdd92d",
+        "price": 433.99,
+        "size": 0.258,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:06.3370000Z",
+        "time_coinapi": "2016-01-01T04:15:06.4200000Z",
+        "uuid": "9d712c4f-1038-4236-9ce9-44420935910d",
+        "price": 433.99,
+        "size": 0.247,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:06.4070000Z",
+        "time_coinapi": "2016-01-01T04:15:06.4900000Z",
+        "uuid": "3ad1ae6c-90e6-4baa-ab02-16da98d2ee49",
+        "price": 433.99,
+        "size": 0.258,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:06.4600000Z",
+        "time_coinapi": "2016-01-01T04:15:06.5430000Z",
+        "uuid": "0e19eea0-8e3d-4a87-986c-eb78d84cbd28",
+        "price": 433.99,
+        "size": 0.20406488,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:06.7630000Z",
+        "time_coinapi": "2016-01-01T04:15:06.8470000Z",
+        "uuid": "61eb7f5a-bc48-4761-bf6a-562222068a97",
+        "price": 433.99,
+        "size": 0.02593512,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:06.8230000Z",
+        "time_coinapi": "2016-01-01T04:15:06.9070000Z",
+        "uuid": "0afdaa2a-a57a-4eb8-ae09-d6288c239646",
+        "price": 433.99,
+        "size": 0.416,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:06.8800000Z",
+        "time_coinapi": "2016-01-01T04:15:06.9630000Z",
+        "uuid": "3899ad51-043a-4ab9-848c-1946ec6bca03",
+        "price": 433.99,
+        "size": 0.206,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:06.9370000Z",
+        "time_coinapi": "2016-01-01T04:15:07.0200000Z",
+        "uuid": "9d852663-1945-4621-86d6-24eb29025ba8",
+        "price": 433.99,
+        "size": 0.245,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:07.0430000Z",
+        "time_coinapi": "2016-01-01T04:15:07.1270000Z",
+        "uuid": "582e7cea-054a-4f0a-817a-34cd3bff57e4",
+        "price": 433.99,
+        "size": 0.249,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:07.0630000Z",
+        "time_coinapi": "2016-01-01T04:15:07.1470000Z",
+        "uuid": "8edbc0a8-8ca4-4f8d-8521-f33fd2efddb4",
+        "price": 433.99,
+        "size": 0.238,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:07.1200000Z",
+        "time_coinapi": "2016-01-01T04:15:07.2030000Z",
+        "uuid": "838772c9-8158-4c58-acbd-bb8cf5ca8a8e",
+        "price": 433.99,
+        "size": 0.12006488,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:07.1770000Z",
+        "time_coinapi": "2016-01-01T04:15:07.2600000Z",
+        "uuid": "a3bf1326-376a-44eb-8680-9788853a8f1e",
+        "price": 433.99,
+        "size": 0.12693512,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:07.2430000Z",
+        "time_coinapi": "2016-01-01T04:15:07.3270000Z",
+        "uuid": "864b907f-6532-4818-8c23-c0f2ee74ec45",
+        "price": 433.99,
+        "size": 0.246,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:07.3070000Z",
+        "time_coinapi": "2016-01-01T04:15:07.3900000Z",
+        "uuid": "2aaeb09f-02d4-497f-856d-8ee22490fa31",
+        "price": 433.99,
+        "size": 0.247,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:07.3630000Z",
+        "time_coinapi": "2016-01-01T04:15:07.4470000Z",
+        "uuid": "61f51288-d7e2-4901-8898-c41ed38308cf",
+        "price": 433.99,
+        "size": 0.245,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:07.4230000Z",
+        "time_coinapi": "2016-01-01T04:15:07.5070000Z",
+        "uuid": "d7a4af84-6d1a-4142-ba65-1a78999b055f",
+        "price": 433.99,
+        "size": 0.244,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:07.4900000Z",
+        "time_coinapi": "2016-01-01T04:15:07.5730000Z",
+        "uuid": "5f9e2c87-afe1-4b2a-a0d6-72e556355556",
+        "price": 433.99,
+        "size": 0.247,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:07.5470000Z",
+        "time_coinapi": "2016-01-01T04:15:07.6300000Z",
+        "uuid": "4b491018-22cf-4c9b-ba62-f969b4203ed3",
+        "price": 433.99,
+        "size": 0.14406488,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:07.7930000Z",
+        "time_coinapi": "2016-01-01T04:15:07.8770000Z",
+        "uuid": "03d23306-9fdc-4de9-9181-a37021dca579",
+        "price": 433.99,
+        "size": 0.09793512,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:07.8500000Z",
+        "time_coinapi": "2016-01-01T04:15:07.9330000Z",
+        "uuid": "dd8c7910-40d0-4218-aae2-fb26b8ed433e",
+        "price": 433.99,
+        "size": 0.02468479,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:08.5070000Z",
+        "time_coinapi": "2016-01-01T04:15:08.5900000Z",
+        "uuid": "39973ab8-189d-44f4-ae37-e7c9dc2c7ce5",
+        "price": 434,
+        "size": 1.5,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:22.3470000Z",
+        "time_coinapi": "2016-01-01T04:15:22.4400000Z",
+        "uuid": "9c46bd34-ef8c-44f4-9a40-257612b53563",
+        "price": 433.99,
+        "size": 0.20031521,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:22.4100000Z",
+        "time_coinapi": "2016-01-01T04:15:22.5000000Z",
+        "uuid": "6fb282f8-107b-4578-a6cc-79c61097b9fe",
+        "price": 433.99,
+        "size": 0.235,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:22.4700000Z",
+        "time_coinapi": "2016-01-01T04:15:22.5600000Z",
+        "uuid": "b46b4d15-e494-4b80-a481-6be2a354332f",
+        "price": 433.99,
+        "size": 0.228,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:22.5270000Z",
+        "time_coinapi": "2016-01-01T04:15:22.6200000Z",
+        "uuid": "1095456f-0afb-4322-ac2e-53285b5f6533",
+        "price": 433.99,
+        "size": 0.251,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:22.5830000Z",
+        "time_coinapi": "2016-01-01T04:15:22.6770000Z",
+        "uuid": "fe665289-da44-4bf2-9f69-9d32af2bf663",
+        "price": 433.99,
+        "size": 0.223,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:22.6430000Z",
+        "time_coinapi": "2016-01-01T04:15:22.7370000Z",
+        "uuid": "63d2ddd5-fd23-4c15-8e5c-ff842c2a95b9",
+        "price": 433.99,
+        "size": 0.246,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:22.7030000Z",
+        "time_coinapi": "2016-01-01T04:15:22.7970000Z",
+        "uuid": "e0e3758a-65e8-4e8c-a82e-920c45de50f6",
+        "price": 433.99,
+        "size": 0.255,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:22.7970000Z",
+        "time_coinapi": "2016-01-01T04:15:22.8900000Z",
+        "uuid": "8784274d-9bde-4e74-9c7b-bb8a6dbc9de7",
+        "price": 433.99,
+        "size": 0.234,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:22.8230000Z",
+        "time_coinapi": "2016-01-01T04:15:22.9130000Z",
+        "uuid": "10924749-292c-490c-af40-017d62e9d99e",
+        "price": 433.99,
+        "size": 0.252,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:22.8800000Z",
+        "time_coinapi": "2016-01-01T04:15:22.9700000Z",
+        "uuid": "489998d9-d86e-42ce-8586-4b6a7de41905",
+        "price": 433.99,
+        "size": 0.179,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:22.9430000Z",
+        "time_coinapi": "2016-01-01T04:15:23.0330000Z",
+        "uuid": "8563d39e-ef71-44ab-9d7c-0abfa80ce3a9",
+        "price": 433.99,
+        "size": 0.245,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:23.0070000Z",
+        "time_coinapi": "2016-01-01T04:15:23.1000000Z",
+        "uuid": "cf370428-26ae-42ef-9f99-d4ae444baa2c",
+        "price": 433.99,
+        "size": 0.226,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:23.0630000Z",
+        "time_coinapi": "2016-01-01T04:15:23.1570000Z",
+        "uuid": "a7dee85d-9b9f-493c-849d-667de4faec96",
+        "price": 433.99,
+        "size": 0.22568479,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:23.3600000Z",
+        "time_coinapi": "2016-01-01T04:15:23.4500000Z",
+        "uuid": "6adf4614-528b-4ede-9c20-572363bb26f5",
+        "price": 433.99,
+        "size": 0.01531521,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:23.4130000Z",
+        "time_coinapi": "2016-01-01T04:15:23.5070000Z",
+        "uuid": "e2d6a369-c79b-47aa-a5a6-7a5d938df3d1",
+        "price": 433.99,
+        "size": 0.247,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:23.4700000Z",
+        "time_coinapi": "2016-01-01T04:15:23.5630000Z",
+        "uuid": "c279fb57-b6c4-4845-9d58-0575f748561e",
+        "price": 433.99,
+        "size": 0.225,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:23.5370000Z",
+        "time_coinapi": "2016-01-01T04:15:23.6300000Z",
+        "uuid": "0f63797d-05a8-423b-839c-de68099552e9",
+        "price": 433.99,
+        "size": 0.247,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:23.6030000Z",
+        "time_coinapi": "2016-01-01T04:15:23.6930000Z",
+        "uuid": "83fe522d-d409-4d87-bc67-7e28237b512b",
+        "price": 433.99,
+        "size": 0.265,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:23.6870000Z",
+        "time_coinapi": "2016-01-01T04:15:23.7770000Z",
+        "uuid": "377feff3-1827-4b4c-9901-61be150a828b",
+        "price": 433.99,
+        "size": 0.196,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:23.7430000Z",
+        "time_coinapi": "2016-01-01T04:15:23.8330000Z",
+        "uuid": "4d26758e-b0a9-46f8-9352-5f399aa83f4d",
+        "price": 433.99,
+        "size": 0.19,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:23.8000000Z",
+        "time_coinapi": "2016-01-01T04:15:23.8930000Z",
+        "uuid": "f7c12422-a4a0-480c-8c93-8f637a97a15d",
+        "price": 433.99,
+        "size": 0.251,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:23.8600000Z",
+        "time_coinapi": "2016-01-01T04:15:23.9530000Z",
+        "uuid": "f3409767-cebe-4e4f-869b-ccad05e28845",
+        "price": 433.99,
+        "size": 0.237,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:23.9230000Z",
+        "time_coinapi": "2016-01-01T04:15:24.0130000Z",
+        "uuid": "ef7edba5-fcc8-40ad-bde1-b09393e5c108",
+        "price": 433.99,
+        "size": 0.224,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:23.9800000Z",
+        "time_coinapi": "2016-01-01T04:15:24.0730000Z",
+        "uuid": "a2c638d2-b43f-4ee4-be95-abc2e7979df5",
+        "price": 433.99,
+        "size": 0.244,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:24.0500000Z",
+        "time_coinapi": "2016-01-01T04:15:24.1400000Z",
+        "uuid": "6d88a4da-8bac-4c8f-9859-91d242612a75",
+        "price": 433.99,
+        "size": 0.15868479,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:31.6100000Z",
+        "time_coinapi": "2016-01-01T04:15:31.7030000Z",
+        "uuid": "24989594-649f-4362-989b-15555451e29b",
+        "price": 434,
+        "size": 1.7,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:37.0370000Z",
+        "time_coinapi": "2016-01-01T04:15:37.1270000Z",
+        "uuid": "e6f7e5af-2e82-4a71-9017-5660447caab5",
+        "price": 434,
+        "size": 1.3751,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:39.4030000Z",
+        "time_coinapi": "2016-01-01T04:15:39.4970000Z",
+        "uuid": "75640aee-d3ed-42af-92cb-f884f236e6a0",
+        "price": 434,
+        "size": 1.3751,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:48.5230000Z",
+        "time_coinapi": "2016-01-01T04:15:48.6170000Z",
+        "uuid": "a6980ae2-1c49-471b-8980-ff57cd9e37d6",
+        "price": 434,
+        "size": 0.3249,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:15:50.9830000Z",
+        "time_coinapi": "2016-01-01T04:15:51.0770000Z",
+        "uuid": "09b99db7-1796-4c26-afc1-c12c437788db",
+        "price": 434,
+        "size": 0.3249,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:16:08.6700000Z",
+        "time_coinapi": "2016-01-01T04:16:08.7570000Z",
+        "uuid": "8dcf07cb-98cb-4b37-8421-a9feccf00888",
+        "price": 433.99,
+        "size": 0.09031521,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:16:08.7570000Z",
+        "time_coinapi": "2016-01-01T04:16:08.8400000Z",
+        "uuid": "458ad135-4bc1-4975-bdf0-06cfabbb9c78",
+        "price": 433.99,
+        "size": 0.252,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:16:08.8130000Z",
+        "time_coinapi": "2016-01-01T04:16:08.8970000Z",
+        "uuid": "f8ef1fa0-908d-4499-b3f2-869e3f377be0",
+        "price": 433.99,
+        "size": 0.225,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:16:08.8730000Z",
+        "time_coinapi": "2016-01-01T04:16:08.9570000Z",
+        "uuid": "d1636f78-6ed3-4c17-ab9e-c34a6d13296d",
+        "price": 433.99,
+        "size": 0.211,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:16:08.9400000Z",
+        "time_coinapi": "2016-01-01T04:16:09.0230000Z",
+        "uuid": "c756e81d-f8ad-4171-a7ee-53f0f3a2b7a0",
+        "price": 433.99,
+        "size": 0.22168479,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:16:09.2100000Z",
+        "time_coinapi": "2016-01-01T04:16:09.2930000Z",
+        "uuid": "5b115acf-c380-496c-a168-f0747e192558",
+        "price": 434,
+        "size": 1.7,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:16:09.4900000Z",
+        "time_coinapi": "2016-01-01T04:16:09.5770000Z",
+        "uuid": "5ca991a2-5757-4aa6-b04f-19a3e1487ad6",
+        "price": 433.99,
+        "size": 0.02831521,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:16:09.5470000Z",
+        "time_coinapi": "2016-01-01T04:16:09.6330000Z",
+        "uuid": "84b0b1c9-d716-432f-aa2b-96da63c48b68",
+        "price": 433.99,
+        "size": 0.211,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:16:09.6070000Z",
+        "time_coinapi": "2016-01-01T04:16:09.6900000Z",
+        "uuid": "8d4ea997-5648-4b75-9ec4-d5e65c31844a",
+        "price": 433.99,
+        "size": 0.253,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:16:09.6700000Z",
+        "time_coinapi": "2016-01-01T04:16:09.7570000Z",
+        "uuid": "2c3c2de6-d2c5-4b8c-89d6-e49d394449d6",
+        "price": 433.99,
+        "size": 0.196,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:16:09.7370000Z",
+        "time_coinapi": "2016-01-01T04:16:09.8230000Z",
+        "uuid": "47054d2a-e6ae-46a3-a9e3-0561ae6c8504",
+        "price": 433.99,
+        "size": 0.225,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:16:09.7970000Z",
+        "time_coinapi": "2016-01-01T04:16:09.8800000Z",
+        "uuid": "eb235430-594e-40e5-bbd0-a39b3b966bc0",
+        "price": 433.99,
+        "size": 0.198,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:16:09.8570000Z",
+        "time_coinapi": "2016-01-01T04:16:09.9400000Z",
+        "uuid": "2b44358b-6de6-4372-871f-7bd459fb7a9b",
+        "price": 433.99,
+        "size": 0.242,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:16:09.9130000Z",
+        "time_coinapi": "2016-01-01T04:16:09.9970000Z",
+        "uuid": "e0101c17-2fee-40bf-885b-0b377a8bd37a",
+        "price": 433.99,
+        "size": 0.258,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:16:09.9730000Z",
+        "time_coinapi": "2016-01-01T04:16:10.0570000Z",
+        "uuid": "7ac2acdd-07b8-419e-997b-c077cd59d094",
+        "price": 433.99,
+        "size": 0.183,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:16:10.0470000Z",
+        "time_coinapi": "2016-01-01T04:16:10.1300000Z",
+        "uuid": "753ad17f-e978-4384-a977-8773b7a8f013",
+        "price": 433.99,
+        "size": 0.20568479,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:16:17.9670000Z",
+        "time_coinapi": "2016-01-01T04:16:18.0500000Z",
+        "uuid": "eea23ce6-3ba7-4d2f-962e-942fedb7b8b3",
+        "price": 434,
+        "size": 0.02,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:16:24.4370000Z",
+        "time_coinapi": "2016-01-01T04:16:24.5300000Z",
+        "uuid": "dfa3f70f-ff5e-47bd-a38d-d91bde595778",
+        "price": 433.99,
+        "size": 0.03531521,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:16:24.4970000Z",
+        "time_coinapi": "2016-01-01T04:16:24.5900000Z",
+        "uuid": "f9239f67-8780-44c5-b1d5-0913dec4bef3",
+        "price": 433.99,
+        "size": 0.247,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:16:24.5600000Z",
+        "time_coinapi": "2016-01-01T04:16:24.6530000Z",
+        "uuid": "65716750-cbae-444c-b2d3-8a1d7095f0cf",
+        "price": 433.99,
+        "size": 0.236,
+        "taker_side": "UNKNOWN"
+    },
+    {
+        "symbol_id": "BITSTAMP_SPOT_BTC_USD",
+        "time_exchange": "2016-01-01T04:16:24.6230000Z",
+        "time_coinapi": "2016-01-01T04:16:24.7170000Z",
+        "uuid": "cf2d9fc1-a450-4744-a04c-2b5ae3806e20",
+        "price": 433.99,
+        "size": 0.257,
+        "taker_side": "UNKNOWN"
+    }
+]
