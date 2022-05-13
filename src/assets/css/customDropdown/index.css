@@ -1,14 +1,16 @@
 @import './template/_template.css';
+@import './template//skin//_templateSkin.css';
 
 @import './section/_section.css';
-@import './section/_sectionSkin.css';
+@import './section/skin/_sectionSkin.css';
 
 @import './list/_dropdownItems.css';
 
 @import './item/_dropdownItem.css';
-@import './item/skin/_dropdownSkin.css';
+@import './item/skin/_dropdownItemSkin.css';
 
 @import './checkbox/_checkbox.css';
 @import './checkbox/skin/_checkboxSkin.css';
 
-@import './title/_dropdownTitle.css'
+@import './title/_dropdownTitle.css';
+@import './text/_dropdownText.css';

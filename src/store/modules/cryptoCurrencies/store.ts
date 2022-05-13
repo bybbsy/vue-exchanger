@@ -6,6 +6,7 @@ import { fetchAllCurrenciesNomicsAPI } from "@/data/services/nomicsAPI/nomicsAPI
 
 
 
+
 class CryptoCurrenciesState implements CryptoCurrenciesModel {
   data: CryptoCurrency[] = [];
   chartData: CryptoCurrencyCoinAPI[] = [];

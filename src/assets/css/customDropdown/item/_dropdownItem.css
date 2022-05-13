@@ -15,7 +15,3 @@
 .dropdownItemSelect:last-child {
     border-radius: 0px 0px 10px 10px;
 }
-
-.dropdownItemSelect:hover {
-    background-color: rgba(87, 184, 95, 0.25);
-}

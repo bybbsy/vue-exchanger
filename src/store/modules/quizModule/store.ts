@@ -78,7 +78,7 @@ class QuizActions extends Actions<QuizState, QuizGetters, QuizMutations> {
         questions: [
           {
             name: 'Question 1',
-            question: "Da f*ck is that?",
+            question: "What is that?",
             choices: [
               {
                 choice: 'Question',
@@ -307,7 +307,7 @@ class QuizActions extends Actions<QuizState, QuizGetters, QuizMutations> {
         questions: [
           {
             name: 'Question 1',
-            question: "Da f*ck is that?",
+            question: "What is it?",
             choices: [
               {
                 choice: 'Question',
@@ -350,7 +350,7 @@ class QuizActions extends Actions<QuizState, QuizGetters, QuizMutations> {
         questions: [
           {
             name: 'Question 1',
-            question: "Da f*ck is that?",
+            question: "What is it?",
             choices: [
               {
                 choice: 'Question',
@@ -393,7 +393,7 @@ class QuizActions extends Actions<QuizState, QuizGetters, QuizMutations> {
         questions: [
           {
             name: 'Question 1',
-            question: "Da f*ck is that?",
+            question: "What is it?",
             choices: [
               {
                 choice: 'Question',
@@ -435,7 +435,7 @@ class QuizActions extends Actions<QuizState, QuizGetters, QuizMutations> {
         questions: [
           {
             name: 'Question 1',
-            question: "Da f*ck is that?",
+            question: "What is it?",
             choices: [
               {
                 choice: 'Question',
@@ -478,7 +478,7 @@ class QuizActions extends Actions<QuizState, QuizGetters, QuizMutations> {
         questions: [
           {
             name: 'Question 1',
-            question: "Da f*ck is that?",
+            question: "What is it?",
             choices: [
               {
                 choice: 'Question',
@@ -521,7 +521,7 @@ class QuizActions extends Actions<QuizState, QuizGetters, QuizMutations> {
         questions: [
           {
             name: 'Question 1',
-            question: "Da f*ck is that?",
+            question: "What is it?",
             choices: [
               {
                 choice: 'Question',
@@ -564,7 +564,7 @@ class QuizActions extends Actions<QuizState, QuizGetters, QuizMutations> {
         questions: [
           {
             name: 'Question 1',
-            question: "Da f*ck is that?",
+            question: "What is it?",
             choices: [
               {
                 choice: 'Question',

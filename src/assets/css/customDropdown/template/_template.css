@@ -1,10 +1,18 @@
 .customDropdown {
-    /* overflow-y: hidden; */
-    margin: 25px;
-    max-width: 466px; 
+    color: rgba(74, 80, 75, 1);
 }
 
-.dropdownWrapper {
-    overflow: hidden;
-    border-radius: 11px 11px 0 0;
+.customDropdownLarge {
+    max-width: 466px;
+    font-size: 1em; 
+}
+
+.customDropdownMedium {
+    max-width: 350px;
+    font-size: 0.9em;
+}
+
+.customDropdownSmall {
+    max-width: 250px; 
+    font-size: 0.8em;
 }

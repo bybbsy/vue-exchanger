@@ -14,7 +14,7 @@
     flex-shrink: 0;
     flex-grow: 0;
     font-size: 2em;
-    border: 1px solid;
+    border: 2px solid;
     border-radius: 0.25em;
     margin-right: 0.5em;
     background-repeat: no-repeat;
@@ -23,38 +23,23 @@
     cursor: pointer;
 }
 
+.dropdownCheckbox.dropdownCheckbox.dropdownCheckboxSelect + .dropdownText {
+    padding-left: 3rem;
+}
+
 .dropdownCheckbox.dropdownCheckboxSelect + .dropdownText::before {
-    border-color: #adb5bd;
+    position: absolute;
+    margin-left: -3rem;
+    top: 50%;
+    transform: translateY(-50%);
 }
 
 .dropdownCheckbox.dropdownCheckboxOpener + .dropdownText::before {
-    background-color: rgba(87, 184, 95, 0.25);
-    border-color: transparent;
     margin-right: 0;
     border-radius: 50%;
     transition: 0.2s all ease;
 }
 
-.dropdownCheckbox.dropdownCheckboxOpener:not(:checked) + .dropdownText::before {
-    background-image: url("@/assets/img/components/customDropdown/popup.svg");
-}
-
 .dropdownCheckbox.dropdownCheckboxOpener:checked + .dropdownText::before {
-    background-image: url("@/assets/img/components/customDropdown/popup.svg");
     transform: rotate(180deg);
-}
-
-.dropdownCheckbox.dropdownCheckboxSelect:checked + .dropdownText::before {
-    border-color: rgba(87, 184, 95, 1);
-    background-color: rgba(87, 184, 95, 1);
-    background-image: url("@/assets/img/components/customDropdown/checkbox.svg");
-}
-
-.dropdownCheckbox.dropdownCheckboxSelect:focus + .dropdownText::before {
-    box-shadow: 0 0 0 0.2rem rgba(87, 184, 95, 0.25);
-}
-
-.dropdownCheckbox.dropdownCheckboxSelect:not(:disabled):active + .dropdownText::before {
-    background-color: rgba(87, 184, 95, 0.25);
-    border-color: rgba(87, 184, 95, 0.25);
 }

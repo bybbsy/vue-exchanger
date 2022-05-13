@@ -1,37 +1,40 @@
-<template>
-  <div class="customDropdown">
+<template> 
+  <div class="customDropdown" :class="size">
     <div class="dropdownWrapper">
       <section class="section sectionOpener">
       <div class="dropdownItem dropdownItemOpener">
-        <h1 class="dropdownTitle">Select option</h1>
+        <h1 class="dropdownTitle">{{ title }}</h1>
         <div class="inputField">
           <input type="checkbox" v-model="popupButton" id="checkbox-popup" class="dropdownCheckbox dropdownCheckboxOpener">
           <label for="checkbox-popup" class="dropdownText"></label>
         </div>
       </div>
     </section>
-    <section class="section sectionMain" :class="{ 'sectionMainActive' : popupButton }">
-      <ul class="dropdownItems">
+    <section class="section sectionMain" :class="{ 'sectionMainActive' : popupButton }" @change="handleCheckbox">
+      <ul class="dropdownItems" v-if="options.length">
         <li class="dropdownItem dropdownItemSelect"
           v-for="(option, i) in options"
-          :key="i" 
+          :key="i"
+           
           >
           <input
             type="checkbox" 
             :value="option.value"
             class="dropdownCheckbox dropdownCheckboxSelect"
             :id="'checkbox-' + i"
+            v-model="picked"
             >
           <label :for="'checkbox-' + i" class="dropdownText">{{ option.name }}</label>
         </li>
       </ul>
+      <p v-else>No options provided :c</p>
     </section>
     </div>
   </div>
 </template>
 
 <script lang="ts">
-import { defineComponent, ref } from 'vue'
+import { computed, defineComponent, PropType, ref } from 'vue'
 
 interface Option {
   name: string,
@@ -39,35 +42,39 @@ interface Option {
 }
 
 export default defineComponent({
-  setup() {
+  props: {
+    small: Boolean,
+    medium: Boolean,
+    large: Boolean,
+    title: {
+      type: String,
+      default: () => 'Select option'
+    },
+    options: {
+      type: Array as PropType<Option[]>,
+      default: () => []
+    }
+  },
+  emits: ['picked'],
+  setup(props, { emit }) {
     let popupButton = ref(false);
+    let picked = ref<string[]>([]);
+
+    const customDropdownSizes = {
+      'customDropdownSmall': props.small,
+      'customDropdownMedium': props.medium,
+      'customDropdownLarge': props.large
+    }
+
+    const size = Object.entries(customDropdownSizes).filter((el) => el[1])?.[0]?.[0] ?? 'customDropdownMedium';
     
-    const options: Option[] = [
-      {
-        name: 'Option 1',
-        value: 'Option 1',
-      },
-      {
-        name: 'Option 2',
-        value: 'Option 2',
-      },
-      {
-        name: 'Option 3',
-        value: 'Option 3',
-      },
-      {
-        name: 'Option 2',
-        value: 'Option 2',
-      },
-      {
-        name: 'Option 3',
-        value: 'Option 3',
-      }
-    ]
+    const handleCheckbox = (e: Event) => emit('picked', picked.value);
 
     return {
-      options,
-      popupButton
+      popupButton,
+      handleCheckbox,
+      size,
+      picked
     }
   },
 })

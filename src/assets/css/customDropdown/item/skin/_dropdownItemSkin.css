@@ -1,0 +1,7 @@
+.dropdownItemOpener {
+    justify-content: space-between;
+}
+
+.dropdownItemSelect:hover {
+    background-color: rgba(87, 184, 95, 0.25);
+}

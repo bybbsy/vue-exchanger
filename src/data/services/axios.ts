@@ -1,5 +1,8 @@
-import axios, { AxiosInstance, AxiosRequestConfig } from "axios";
+import axios, { AxiosInstance, AxiosInterceptorManager, AxiosRequestConfig } from "axios";
 import { MockOffer } from "./mockAPI/mockAPI";
+
+
+
 
 export class AxiosClient {
   client: AxiosInstance
@@ -9,6 +12,7 @@ export class AxiosClient {
       baseURL: baseUrl
     })
   }
+
 
   async get<T>(url: string, params?: AxiosRequestConfig): Promise<T> {
     /* eslint-disable no-useless-catch*/
