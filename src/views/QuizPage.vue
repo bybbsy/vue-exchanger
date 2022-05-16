@@ -64,9 +64,7 @@ export default defineComponent({
     let isQuiz = computed(() => quizContext.getters.isQuiz);
     
     let page = computed(() => quizContext.getters.currentPage);
-
-     
-
+    
     return {
       quiz,
       page,

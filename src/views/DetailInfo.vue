@@ -112,9 +112,6 @@ export default defineComponent({
 
       await this.cryptoContext.actions.fetchCurrency(payload);
 
-      // const ctx = this.$refs.mainChart as HTMLCanvasElement;
-
-      // console.log(this.cryptoContext.getters.getChartData)
 
       this.chart.data.datasets.pop();
       this.chart.data.datasets.push({
@@ -126,21 +123,6 @@ export default defineComponent({
       });
       
       this.chart.update();
-
-      // const chart = new Chart(ctx, {
-      //   type: 'line',
-      //   data: {
-      //     datasets: [{
-      //       label: 'Bitcoin price change',
-      //       data: this.chartData,
-      //       cubicInterpolationMode: 'monotone',
-      //       borderColor: '#9dc1fb'
-      //     },
-      //     ]
-      //   }
-      // })
-
-
     },
     getData(raw: CryptoCurrencyCoinAPI[]): ChartDataModel[] {
       console.log('raw:', raw)
@@ -148,11 +130,6 @@ export default defineComponent({
         return { x: formatDateForChart(el.time_exchange), y: el.price, taker: el.taker_side }
       })
     },
-    // getSizeChange(raw: any[]): any[] {
-    //   return raw.map(el => {
-    //     return { x: format(new Date(el.time_exchange), 'hh:mm:ss/MMMM:yyyy'), y: el.size * 1000 }
-    //   })
-    // }
   },
   async mounted() {
     const ctx = (this.$refs.mainChart as HTMLCanvasElement);

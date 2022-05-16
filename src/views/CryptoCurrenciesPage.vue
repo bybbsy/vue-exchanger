@@ -60,12 +60,11 @@
           </table>
         </div>
     </div>
-    <!-- <Loader v-else/> -->
   </main-layout>
 </template>
 
 <script lang="ts">
-import { defineAsyncComponent, defineComponent } from 'vue';
+import { defineComponent } from 'vue';
 import chevronUp from '@/components/icons/chevronUp.vue';
 import chevronDown from '@/components/icons/chevronDown.vue';
 import { CryptoCurrency } from '@/store/modules/cryptoCurrencies/types';

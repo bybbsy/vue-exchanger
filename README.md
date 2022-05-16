@@ -2,7 +2,7 @@
 
 * ### [Project setup](#setup) 🚀
 * ### [Project tech stack](#stack) 🍔
-* ### [Project features](#features)
+* ### [Project features](#features) 🔖
 
 ## <a name="setup"></a> Project setup 🚀 
 ```
@@ -42,9 +42,12 @@ For this project I used:
 * <a href="https://www.chartjs.org/">ChartJS</a>
 
 APIs I used:
+* <a href="https://www.cbr.ru/lk_uio/guide/rest_api/">CBR</a>
+* <a href="https://polygon.io/">Polygon</a> 
 * <a href="https://www.coinapi.io/">coinAPI</a>
 * <a href="https://mockapi.io/">mockAPI</a>
-* <a href="https://nomics.com/">nomicsAPI</a>
+* <a href="https://nomics.com/">nomics</a> 
+* <p>Express api (I created that api with express js, nothing special)</p>
 
 ## <a name="stack"></a> Project features
 
@@ -127,7 +130,13 @@ You can also pass the pick handler:
 ```
 
 
-I used OOCSS approach to style this component. Each component has styles of structure and skin
+I used **OOCSS** approach to style this component. Each component has styles of structure and skin
 
 ### Vuex-smart-module
 This library provied a bit different way of creating vuex store from default vuex. I used it to create the store and the modules
+
+### Axios
+I implemented a **custom axios class** that provides you with post, put, update, delete methods that wrapped in try catch. Also for mock api I created an interceptor.
+
+### Chart JS
+I used chart js to show information about butcoin trades and to show result of quiz.

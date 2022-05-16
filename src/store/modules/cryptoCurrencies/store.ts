@@ -1,10 +1,7 @@
 import { Actions, createMapper, Getters, Module, Mutations } from "vuex-smart-module";
 import { CryptoCurrenciesModel, CryptoCurrencyCoinAPI, CryptoCurrency, FindCryptoPayload } from "./types";
-import bitcoinHistoryData from '@/data/bitcoinHistoryData.json';
 import { fetchCurrencyCoinAPI } from "@/data/services/coinAPI/coinAPI";
 import { fetchAllCurrenciesNomicsAPI } from "@/data/services/nomicsAPI/nomicsAPI";
-
-
 
 
 class CryptoCurrenciesState implements CryptoCurrenciesModel {
@@ -64,9 +61,6 @@ const cryptoCurrenciesModule = new Module({
   mutations: CryptoCurrenciesMutations
 })
 
-// const cryptoCurrenciesMapper = createMapper(cryptoCurrenciesModule);
-
 export {
   cryptoCurrenciesModule,
-  // cryptoCurrenciesMapper
 }
